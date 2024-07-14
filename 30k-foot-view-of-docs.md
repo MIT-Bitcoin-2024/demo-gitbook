@@ -1,8 +1,12 @@
 # 🍎 30k foot view of docs
 
-content
-
-content2
-
-content3
+* Quickstart
+  * quick videos demonstrating hello worlds
+* FAQs
+* Subject Matter Expertise
+  * Lightning / Bitcoin
+  * Github
+* Troubleshooting
+* Ways to use Lightning Bounties
+* Key Terms / Glossary
 
