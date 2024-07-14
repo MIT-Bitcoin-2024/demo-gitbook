@@ -4,4 +4,4 @@
 * [Will Rules!](will-rules.md)
 * [Lightning Bounties FAQ's](lightning-bounties-faqs.md)
 * [📽️ Video Demo's](video-demos.md)
-* [🔠 Glossary](glossary.md)
+* [🔠 Meet The Team](glossary.md)
