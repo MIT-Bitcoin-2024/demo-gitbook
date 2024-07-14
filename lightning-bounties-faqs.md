@@ -45,10 +45,15 @@ Linking your GitHub account to Lightning Bounties is necessary for several reaso
 **TLDR:** _Linking your GitHub account streamlines bug hunting, promotes collaboration, and ensures proper reward distribution._
 
 
+</details>
 
+<details>
 
+<summary>Who is the GOAT?</summary>
+Satoshi, obvi
 
 </details>
+
 
 
 
