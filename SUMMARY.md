@@ -22,3 +22,8 @@
 * [❓ Lightning Bounties FAQ's](lightning-bounties-faqs.md)
 * [🔠 Meet The Team](glossary.md)
 * [📽️ Video Demo's](video-demos.md)
+
+## Licensing/contributing
+
+* [LICENSE](licensing-contributing/license.md)
+* [CONTRIBUTING. md](licensing-contributing/contributing.-md.md)
