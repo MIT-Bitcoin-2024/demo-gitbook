@@ -27,3 +27,4 @@
 
 * [LICENSE](licensing-contributing/license.md)
 * [CONTRIBUTING. md](licensing-contributing/contributing.-md.md)
+* [CODE\_OF\_CONDUCT.md](licensing-contributing/code\_of\_conduct.md.md)
