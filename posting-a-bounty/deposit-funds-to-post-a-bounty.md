@@ -4,6 +4,8 @@
 
 Welcome to the Lightning Bounties platform! To post a bounty and reward developers for their contributions, you'll need to deposit funds into your account. Follow these simple steps to add SATOSHIS using the Lightning Network:
 
+{% embed url="https://share.synthesia.io/b297603a-2f7b-4773-88fb-ea17f05c79f8" %}
+
 ### Steps to Deposit Funds:
 
 #### Step 1: Go to Profile Icon
