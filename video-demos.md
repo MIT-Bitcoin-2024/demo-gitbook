@@ -8,7 +8,7 @@ coverY: 0
 
 
 
-{% embed url="https://youtu.be/5k5JaxSCHv8?feature=shared" fullWidth="true" %}
+{% embed url="https://youtu.be/5k5JaxSCHv8?feature=shared" fullWidth="false" %}
 Lightning Bounties MVP Demo&#x20;
 {% endembed %}
 
