@@ -4,13 +4,13 @@ description: >-
   Lightning Bounties.
 ---
 
-# Lightning Bounties FAQ's
+# ❓ Lightning Bounties FAQ's
 
 <details>
 
-<summary>What's Lightning Bounties </summary>
+<summary>What's Lightning Bounties</summary>
 
-Lightning Bounties is a Web3 Bug Bounty Platform that is tailored for the Lightning Network. It provides a platform for developers, researchers, and ethical hackers to discover and report bugs, vulnerabilities, and security issues within Lightning Network applications and protocols.&#x20;
+Lightning Bounties is a Web3 Bug Bounty Platform that is tailored for the Lightning Network. It provides a platform for developers, researchers, and ethical hackers to discover and report bugs, vulnerabilities, and security issues within Lightning Network applications and protocols.
 
 Lightning Bounties offers an opportunity for the Lightning community to proactively address potential security threats and ensure the overall safety and integrity of the network.
 
@@ -38,26 +38,16 @@ Lightning Bounties caters to two primary groups: <mark style="background-color:o
 
 Linking your GitHub account to Lightning Bounties is necessary for several reasons:
 
-
-
 <img src=".gitbook/assets/image.png" alt="" data-size="original">
 
 **TLDR:** _Linking your GitHub account streamlines bug hunting, promotes collaboration, and ensures proper reward distribution._
-
 
 </details>
 
 <details>
 
 <summary>Who is the GOAT?</summary>
+
 Satoshi, obvi
 
 </details>
-
-
-
-
-
-
-
-
