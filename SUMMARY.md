@@ -20,11 +20,11 @@
 ***
 
 * [❓ Lightning Bounties FAQ's](lightning-bounties-faqs.md)
-* [🔠 Meet The Team](glossary.md)
+* [🤝 Meet The Team](glossary.md)
 * [📽️ Video Demo's](video-demos.md)
 
-## Licensing/contributing
+## 📄 Terms of Service
 
-* [LICENSE](licensing-contributing/license.md)
-* [CONTRIBUTING. md](licensing-contributing/contributing.-md.md)
-* [CODE\_OF\_CONDUCT.md](licensing-contributing/code\_of\_conduct.md.md)
+* [🌍 LICENSE](terms-of-service/license.md)
+* [🏗️ CONTRIBUTING](terms-of-service/contributing.md)
+* [👮‍♀️ CODE\_OF\_CONDUCT](terms-of-service/code\_of\_conduct.md)

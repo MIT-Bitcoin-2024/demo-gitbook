@@ -1,4 +1,4 @@
-# CONTRIBUTING. md
+# 🏗️ CONTRIBUTING
 
 ## 🧪 How to Test 👨‍🔬
 

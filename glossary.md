@@ -1,5 +1,10 @@
-# 🔠 Meet The Team
+---
+cover: >-
+  https://cdn.discordapp.com/attachments/1231779693540282398/1255033272032034927/IMG_9027.jpg?ex=669757d1&is=66960651&hm=27077e33c2c7de9aef593ea8488b226a814c8e7dbcb3d7f42f288208add736fc&
+coverY: 0
+---
 
+# 🤝 Meet The Team
 
+<table data-full-width="true"><thead><tr><th align="center">Enrique Gamboa</th><th align="center">Will Sutton</th><th align="center">Pavel Kononov</th><th align="center">Mike Abramo</th></tr></thead><tbody><tr><td align="center"><img src=".gitbook/assets/enrique_medium_pic.jpg" alt=""></td><td align="center"><img src=".gitbook/assets/will_sutton_github_pic.jpg" alt="" data-size="original"></td><td align="center"><img src=".gitbook/assets/pavel4.jpg" alt=""></td><td align="center"><img src=".gitbook/assets/mike.jpg" alt="" data-size="original"></td></tr><tr><td align="center"><strong><code>Partnerships &#x26; Growth</code></strong></td><td align="center"><strong><code>Product &#x26; Strategy</code></strong></td><td align="center"><strong><code>Engineering &#x26; Project Management</code></strong></td><td align="center"><strong><code>Marketing &#x26; Developer Relations</code></strong></td></tr><tr><td align="center"><a href="https://github.com/jegamboafuentes">GitHub</a></td><td align="center"><a href="https://github.com/sutt">GitHub</a></td><td align="center"><a href="https://github.com/super-jaba">GitHub</a></td><td align="center"><a href="https://github.com/SonnyMonroe">GitHub</a></td></tr></tbody></table>
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th data-type="files"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td></td><td><a href="https://app.gitbook.com/u/KlFfQPE6wWM4tAffMfzQWSquCZZ2"><strong>Enrique Gamboa</strong></a></td><td>  Testing 3:45am</td><td></td><td><a href=".gitbook/assets/enrique_medium_pic.jpg">enrique_medium_pic.jpg</a></td></tr><tr><td><h3>Will Sutton </h3></td><td></td><td><h3></h3></td><td></td><td><a href=".gitbook/assets/will_sutton_github_pic.jpg">will_sutton_github_pic.jpg</a></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>

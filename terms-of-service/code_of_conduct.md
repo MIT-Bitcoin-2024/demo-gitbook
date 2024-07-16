@@ -1,4 +1,4 @@
-# CODE\_OF\_CONDUCT.md
+# 👮‍♀️ CODE\_OF\_CONDUCT
 
 ## Code of Conduct
 
