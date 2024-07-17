@@ -8,6 +8,7 @@
 ## 🏁 Getting started
 
 * [⚡ Welcome To Lightning Bounties](getting-started/readme.md)
+* [👨‍💻 HOW\_TO\_TEST](getting-started/how\_to\_test.md)
 * [📡 External resources](getting-started/external-resources/README.md)
   * [Satoshi in Bitcoin: What It Is and How Much It Is Worth](https://www.investopedia.com/terms/s/satoshi.asp)
   * [Use Lightning Network](https://uselightning.network/)
@@ -22,14 +23,13 @@
 * [❓ Lightning Bounties FAQ's](lightning-bounties-faqs.md)
 * [🤝 Meet The Team](glossary.md)
 * [📽️ Video Demo's](video-demos.md)
+* [🌍 LICENSE](license.md)
+* [🚨 CODE\_OF\_CONDUCT](code\_of\_conduct.md)
 
 ## 📄 Terms of Service
-
-* [🌍 LICENSE](terms-of-service/license.md)
-* [🏗️ CONTRIBUTING](terms-of-service/contributing.md)
-* [🚨 CODE\_OF\_CONDUCT](terms-of-service/code\_of\_conduct.md)
 
 ***
 
 * [🕸️ Archived](archived/README.md)
   * [👮‍♀️ deprecated\_7/2024\_code\_of\_conduct](archived/deprecated\_7-2024\_code\_of\_conduct.md)
+  * [🏗️ CONTRIBUTING](archived/contributing.md)

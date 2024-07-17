@@ -1,5 +1,11 @@
 # 🏗️ CONTRIBUTING
 
+## :exclamation:<mark style="background-color:red;">Disclaimer</mark> :exclamation:
+
+!!! warning "Beta Version" This project is currently in beta and under active development. The testing process described in this document may change frequently as we make updates and improvements.
+
+If you have any questions or would like to discuss potential contributions, please email us at [founders@lightningbounties.com](mailto:founders@lightningbounties.com).
+
 ## 🧪 How to Test 👨‍🔬
 
 1. **Fork the Repository and Clone it**

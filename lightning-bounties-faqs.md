@@ -8,7 +8,7 @@ description: >-
 
 <details>
 
-<summary>What's Lightning Bounties</summary>
+<summary>What's Lightning Bounties?</summary>
 
 Lightning Bounties is a Web3 Bug Bounty Platform that is tailored for the Lightning Network. It provides a platform for developers, researchers, and ethical hackers to discover and report bugs, vulnerabilities, and security issues within Lightning Network applications and protocols.
 
