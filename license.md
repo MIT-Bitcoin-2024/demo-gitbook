@@ -1,4 +1,4 @@
-# 🌍 LICENSE
+# ⚖️ license
 
 MIT License
 
