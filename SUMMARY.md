@@ -17,6 +17,9 @@
 ## 💱 Posting a bounty
 
 * [👉 Deposit Funds to Post a Bounty](posting-a-bounty/deposit-funds-to-post-a-bounty.md)
+* [🐙 .github/](posting-a-bounty/.github/README.md)
+  * [⬅️ PULL\_REQUEST\_TEMPLATE.md](posting-a-bounty/.github/pull\_request\_template.md.md)
+  * [🔥 FEATURE\_REQUEST\_TEMPLATE.md](posting-a-bounty/.github/feature\_request\_template.md.md)
 
 ***
 
@@ -25,11 +28,6 @@
 * [📽️ Video Demo's](video-demos.md)
 * [⚖️ LICENSE.md](license.md)
 * [🚨 CODE\_OF\_CONDUCT](code\_of\_conduct.md)
-
-## 📄 Terms of Service
-
-***
-
 * [🕸️ Archived](archived/README.md)
   * [👮‍♀️ deprecated\_7/2024\_code\_of\_conduct](archived/deprecated\_7-2024\_code\_of\_conduct.md)
   * [🏗️ CONTRIBUTING](archived/contributing.md)
