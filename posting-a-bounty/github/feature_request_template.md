@@ -1,4 +1,4 @@
-# 🔥 FEATURE\_REQUEST\_TEMPLATE.md
+# 🔥 FEATURE\_REQUEST\_TEMPLATE
 
 ## Lightning Bounties Feature Request Submission
 
