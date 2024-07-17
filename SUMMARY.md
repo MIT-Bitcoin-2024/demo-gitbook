@@ -32,6 +32,6 @@
 ***
 
 * [🕸️ Archived](archived/README.md)
-  * [👮‍♀️ CODE\_OF\_CONDUCT](archived/code\_of\_conduct.md)
+  * [👮‍♀️ deprecated\_7/2024\_code\_of\_conduct.md](archived/deprecated\_7-2024\_code\_of\_conduct.md.md)
 
 ## ⚰️ ARCHIVED\_7/2024\_docs.md
