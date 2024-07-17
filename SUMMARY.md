@@ -23,7 +23,7 @@
 * [❓ Lightning Bounties FAQ's](lightning-bounties-faqs.md)
 * [🤝 Meet The Team](glossary.md)
 * [📽️ Video Demo's](video-demos.md)
-* [⚖️ license](license.md)
+* [⚖️ LICENSE.md](license.md)
 * [🚨 CODE\_OF\_CONDUCT](code\_of\_conduct.md)
 
 ## 📄 Terms of Service
