@@ -6,12 +6,8 @@ description: >-
 
 # 👮‍♀️ CODE\_OF\_CONDUCT
 
-{% code overflow="wrap" %}
-```markdown
-> [!IMPORTANT]  
-> Moved to https://app.gitbook.com/o/BGwrTsFHxhSQHPgv6nD1/s/gvH1HLwrajw9XplSBFfy/~/changes/17/terms-of-service/code_of_conduct
-```
-{% endcode %}
+> \[!IMPORTANT]\
+> Moved to [https://app.gitbook.com/o/BGwrTsFHxhSQHPgv6nD1/s/gvH1HLwrajw9XplSBFfy/\~/changes/18/terms-of-service/code\_of\_conduct](../terms-of-service/code\_of\_conduct.md)
 
 ## Code of Conduct
 
