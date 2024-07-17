@@ -27,4 +27,11 @@
 
 * [🌍 LICENSE](terms-of-service/license.md)
 * [🏗️ CONTRIBUTING](terms-of-service/contributing.md)
-* [👮‍♀️ CODE\_OF\_CONDUCT](terms-of-service/code\_of\_conduct.md)
+* [🚨 CODE\_OF\_CONDUCT](terms-of-service/code\_of\_conduct.md)
+
+***
+
+* [🕸️ Archived](archived/README.md)
+  * [👮‍♀️ CODE\_OF\_CONDUCT](archived/code\_of\_conduct.md)
+
+## ⚰️ ARCHIVED\_7/2024\_docs.md
