@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Will Rules!](README.md)
+* [Lightning Bounties | Docs](README.md)
 * [🍎 30k foot view of docs](30k-foot-view-of-docs.md)
 * [----](undefined.md)
 
