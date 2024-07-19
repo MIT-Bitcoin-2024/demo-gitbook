@@ -3,7 +3,6 @@
 * [Will Rules!](README.md)
 * [🍎 30k foot view of docs](30k-foot-view-of-docs.md)
 * [----](undefined.md)
-* [📖 Glossary (Work in Progress)](glossary-work-in-progress.md)
 
 ## 🏁 Getting started
 
@@ -24,6 +23,7 @@
 ***
 
 * [⭐ CONTRIBUTING](contributing.md)
+* [📖 Glossary (Work in Progress)](glossary-work-in-progress.md)
 * [❓ Lightning Bounties FAQ's](lightning-bounties-faqs.md)
 * [🤝 Meet The Team](glossary.md)
 * [📽️ Video Demo's](video-demos.md)
