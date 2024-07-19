@@ -1,2 +1,0 @@
-# 💸 Submit a new reward
-
