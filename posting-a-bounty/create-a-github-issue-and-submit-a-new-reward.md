@@ -30,4 +30,4 @@ _Copy and Paste the GitHub issue created in last step here._
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-####
+Following these steps will allow you to create a new issue on GitHub and submit a new reward on the Lightning Bounties platform. If you need further assistance, please feel free to contact our support team.
