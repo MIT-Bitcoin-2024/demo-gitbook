@@ -38,7 +38,7 @@ Lightning Bounties caters to two primary groups: <mark style="background-color:o
 
 Linking your GitHub account to Lightning Bounties is necessary for several reasons:
 
-<img src=".gitbook/assets/image.png" alt="" data-size="original">
+<img src=".gitbook/assets/image (1).png" alt="" data-size="original">
 
 **TLDR:** _Linking your GitHub account streamlines bug hunting, promotes collaboration, and ensures proper reward distribution._
 
@@ -51,3 +51,12 @@ Linking your GitHub account to Lightning Bounties is necessary for several reaso
 Satoshi, obvi
 
 </details>
+
+
+
+
+
+
+
+
+
