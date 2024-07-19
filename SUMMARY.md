@@ -16,6 +16,7 @@
 ## 💱 Posting a bounty
 
 * [👉 Deposit Funds to Post a Bounty](posting-a-bounty/deposit-funds-to-post-a-bounty.md)
+* [💸 Submit a new reward](posting-a-bounty/submit-a-new-reward.md)
 * [🐙 .github](posting-a-bounty/.github/README.md)
   * [⬅️ PULL\_REQUEST\_TEMPLATE](posting-a-bounty/.github/pull\_request\_template.md)
   * [🔥 FEATURE\_REQUEST\_TEMPLATE](posting-a-bounty/.github/feature\_request\_template.md)
