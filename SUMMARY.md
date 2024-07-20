@@ -2,7 +2,9 @@
 
 * [Lightning Bounties | Docs](README.md)
 * [🍎 30k foot view of docs](30k-foot-view-of-docs.md)
-* [----](undefined.md)
+* [🎱 Taglines page](taglines-page.md)
+* [----](undefined/README.md)
+  * [Sub 1 | Taglines](undefined/sub-1-or-taglines.md)
 
 ## 🏁 Getting started
 
