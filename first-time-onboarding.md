@@ -43,7 +43,7 @@ Welcome aboard! Let the bounty hunting begin and enjoy the electrifying adventur
 
 ***
 
-Created with [Tango.us](https://tango.us/?utm\_source=markdown\&utm\_medium=markdown\&utm\_campaign=workflow%20export%20links)
+
 
 \
 
