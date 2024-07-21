@@ -31,6 +31,7 @@
 ## 👨‍💻 Solve a Bounty
 
 * [🔎 Looking for a project to get rewarded](solve-a-bounty/looking-for-a-project-to-get-rewarded.md)
+* [👩‍🏭 Working on the Bounty](solve-a-bounty/working-on-the-bounty.md)
 
 ***
 
