@@ -16,6 +16,10 @@
   * [Use Lightning Network](https://uselightning.network/)
   * [GitHub issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues)
 
+***
+
+* [1️⃣ First Time Onboarding](first-time-onboarding.md)
+
 ## 💱 Posting a bounty
 
 * [👉 Deposit Funds to Post a Bounty](posting-a-bounty/deposit-funds-to-post-a-bounty.md)
