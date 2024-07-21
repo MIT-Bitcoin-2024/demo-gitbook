@@ -28,6 +28,7 @@
 * [📖 Glossary (Work in Progress)](glossary-work-in-progress.md)
 * [❓ Lightning Bounties FAQ's](lightning-bounties-faqs.md)
 * [🤝 Meet The Team](glossary.md)
+* [🌐 Socials](socials.md)
 * [📽️ Video Demo's](video-demos.md)
 * [⚖️ LICENSE.md](license.md)
 * [🚨 CODE\_OF\_CONDUCT](code\_of\_conduct.md)
