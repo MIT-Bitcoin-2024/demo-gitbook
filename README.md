@@ -4,8 +4,7 @@ description: If you came here to write docs and get paid, you're in the right pl
 
 # Lightning Bounties | Docs
 
-#### If you're looking to just read the docs go here: [https://lightning-bounties.gitbook.io/docs](https://lightning-bounties.gitbook.io/docs)
-
+#### If you're looking to just read the docs go here: [https://lightning-bounties.gitbook.io/docs/getting-started/getting-started](https://lightning-bounties.gitbook.io/docs/getting-started/getting-started)
 #### Open Bounties on our Documentation
 
 Head here and look for open bounties: [https://beta.lightningbounties.com](https://beta.lightningbounties.com)
