@@ -34,12 +34,10 @@ In this example, upload the colored logo.&#x20;
 
 #### Step 06: Contribute and Open a Pull Request
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 #### Step 17: Create Pull Request
 
-#### Click on the button `Create pull request`
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Following these steps, you will have successfully worked on a bounty by creating a fork, making changes, and submitting a pull request for review. If you need any further assistance, please contact our support team.
-
-4o
