@@ -36,3 +36,7 @@
 * [🕸️ Archived](archived/README.md)
   * [👮‍♀️ deprecated\_7/2024\_code\_of\_conduct](archived/deprecated\_7-2024\_code\_of\_conduct.md)
   * [🏗️ CONTRIBUTING](archived/contributing.md)
+
+## 👨‍💻 Solve a Bounty
+
+* [🔎 Looking for a project to get rewarded](solve-a-bounty/looking-for-a-project-to-get-rewarded.md)
