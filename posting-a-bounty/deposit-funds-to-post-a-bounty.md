@@ -8,13 +8,13 @@ description: This page describes how to deposit Funds to your account.
 
 #### Step 1:  "Deposit"
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Step 2: Click on the input field and add the amount of Satoshi you want to deposit and click **Generate.**
 
 
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Step 3: **Action: Copy the the invoice address or scan the QR code to deposit**
 
