@@ -1,7 +1,5 @@
 # 👉 Deposit Funds to Post a Bounty
 
-# Yo!! Mike! Sup!
-
 ## Deposit Funds to Post a Bounty
 
 Welcome to the Lightning Bounties platform! To post a bounty and reward developers for their contributions, you'll need to deposit funds into your account. Follow these simple steps to add SATOSHIS using the Lightning Network:
