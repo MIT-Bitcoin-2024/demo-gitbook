@@ -14,47 +14,27 @@
 
 ***
 
-#### What are Sats (Satoshi’s)?
 
-*   Simplest Explainer
 
-    ~~Sats/Satoshi’s are a fraction of bitcoin, like cents are a fraction of dollar~~
-
-    A ‘sat’ or ‘satoshi’ is the smallest monetary unit of bitcoin. You can think of Satoshis in a similar way to the cents that make up a dollar.
-
-A Sat or Satoshi is the smallest unit of account on the Bitcoin blockchain. It is named to honor the creator of Bitcoin called "Satoshi Nakamoto" which was his pseudonym.
-
-You can see the Bitcoin unit of accounts here
-
-[https://en.bitcoin.it/wiki/Units](https://en.bitcoin.it/wiki/Units)
-
-With millibits (mBTC) and Sats being the most common denomination in Bitcoin
-
-1 Satoshi = 0.00000001 BTC or 100,000,000 sats in 1 Bitcoin
-
-[https://www.kraken.com/learn/satoshi-to-usd-converter](https://www.kraken.com/learn/satoshi-to-usd-converter)
-
-1 USD = 1,617 sats at this moment (6/25/2024)
-
-1 US penny = 16 sats at this moment (6/25/2024)
-
-When people say "stacking sats" they literally mean accumulating more savings in Bitcoin.
-
-In the future when Bitcoin is more stable and worth \~10 million usd = 1 BTC than you might see things like coffee shops selling a cup of coffee for 10-20 sats a cup and cars selling for 5 millibits for a car as examples of how they will be used in daily life.
-
-If you are concerned about microtransactions or machine to machine microtxs don't worry as Bitcoin can be divided further into 1/1000 of a satoshi in a lightning payment channel
-
-To clarify Divisibility is not the same thing as increased inflation either as 1 usd = 4 quarters = 10 dimes = 100 pennies with purchasing power and inflation only occurs when another dollar is printed to drive down the spending power of each dollar.
-
-#### **How many Satoshi’s are in one Bitcoin?**
-
-Each of the 21 million units of bitcoin that will ever exist can be broken down further into 100,000,000 satoshis.
+####
 
 
 
+<details>
 
+<summary>Satoshi's (Sats)</summary>
 
+A satoshi is 1/100 millionth of a Bitcoin. In the Lightning Network, a satoshi is further divisible into 1000 pieces ([millisatoshi](https://docs.lightning.engineering/community-resources/glossary#millisatoshi)). It is named after Bitcoin's creator, [Satoshi Nakamoto](https://docs.lightning.engineering/community-resources/glossary#satoshi-nakamoto).
 
+</details>
+
+<details>
+
+<summary>mSats</summary>
+
+mSats are each 1/1000 (a thousandth) of a satoshi. A satoshi is the smallest unit for bitcoin, but lightning can transact with even smaller units while channels are open. The amount is [rounded down](https://github.com/lightningnetwork/lnd/blob/master/lnwire/msat.go#L22-L24) to the nearest satoshi when the channel is closed and broadcast to the blockchain to adhere to bitcoin's limit.
+
+</details>
 
 <details>
 
@@ -158,14 +138,6 @@ Non-custodial wallets give the user full control over their funds and the associ
 
 </details>
 
-<details>
-
-<summary>mSats</summary>
-
-mSats are each 1/1000 (a thousandth) of a satoshi. A satoshi is the smallest unit for bitcoin, but lightning can transact with even smaller units while channels are open. The amount is [rounded down](https://github.com/lightningnetwork/lnd/blob/master/lnwire/msat.go#L22-L24) to the nearest satoshi when the channel is closed and broadcast to the blockchain to adhere to bitcoin's limit.
-
-</details>
-
 ####
 
 ####
@@ -174,51 +146,67 @@ mSats are each 1/1000 (a thousandth) of a satoshi. A satoshi is the smallest uni
 
 ####
 
-## FAQ’s
+## FAQ’s - Lightning Network&#x20;
 
 ***
 
-#### Why do Lightning Invoices Expire?
+###
 
-Why do invoices expire? If invoices had no expiry, recipients would likely run into memory / storage issues as the number of locally stored preimages grows with each payment attempt.
+
+
+<details>
+
+<summary>How many Satoshi’s (Sats) are in one Bitcoin?</summary>
+
+Each of the 21 million units of Bitcoin that will ever exist can be broken down further into 100,000,000 satoshis.
+
+</details>
+
+<details>
+
+<summary>Why do Lightning Invoices Expire?</summary>
+
+Why do invoices expire? If invoices had no expiry, recipients would likely run into memory/storage issues as the number of locally stored preimages grows with each payment attempt.
 
 _Credit: bitcoin.design_
 
-#### What is a Lightning Network channel?
+</details>
+
+<details>
+
+<summary>What is a Lightning Network channel?</summary>
 
 A Lightning Network channel is a peer-to-peer payment channel that enables instant and low-cost transactions between two parties.
 
-#### Do I need to run a Lightning Network node to use the network?
+</details>
 
-Nope, you don't need to run a node to use the Lightning Network. You can simply use a lightning wallet app to send and receive payments.
+<details>
 
-#### **How do I open a Lightning Network channel?**
+<summary>How do I open a Lightning Network channel?</summary>
 
 Open a channel by sending a small amount of Bitcoin to another node or wallet, which serves as a deposit for the channel.
 
-#### **What Are Some Popular Lightning Network wallets?**
+</details>
 
-Some popular Lightning Network wallets include Bluewallet, Lightning Lab's Lightning Wallet, Muun, Wallet of Satoshi, Zeus Wallet and Breez.
+<details>
 
-#### **What is a "channel reserve" and how does it affect my onboarding experience?**
+<summary>Do I need to run a Lightning Network node to use the network?</summary>
+
+Nope, you don't need to run a node to use the Lightning Network. You can simply use a lightning wallet app to send and receive payments.
+
+</details>
+
+<details>
+
+<summary>What is a "channel reserve" and how does it affect my onboarding experience?</summary>
 
 Channel reserve is the amount of Bitcoin required to open a payment channel. Higher reserves can make it harder to find nodes and open channels.
 
-#### **What is the difference between a Non-custodial & Custodial wallet**
+</details>
 
-_Also known as unhosted / self-hosted / hosted wallet._
+<details>
 
-A non-custodial wallet-application implies that the private key and/or recovery phrase is in full control of the end-user. This means that transactions can never be made without the user’s direct action. It also means that should the user forget or misplace their recovery phrase, wallet-application makers cannot help restore access to the funds in the bitcoin wallet.&#x20;
-
-With a custodial wallet-application, the users are not exposed to and in charge of securing the recovery phrase. Often custodial wallet-applications require users to sign in with their email and password. Users must trust the wallet-application makers to secure their recovery phrase and bitcoin. With a custodial wallet-application, the makers of it are technically in control of their users’ funds. Most exchanges give users custodial wallets.
-
-#### Hot Wallet vs Cold Wallet
-
-#### **Hot / Cold wallet** [**#**](https://bitcoin.design/guide/glossary/wallet/#hot--cold-wallet)
-
-_Hot_ and _cold_ describe a wallet in terms of being connected to the internet. Where a hot wallet is connected to the internet, a cold wallet is not. The idea is that a cold wallet is less susceptible to third-party theft over the internet. Most software wallet-application would be seen as hot (although some can be used just for signing on a device not connected to the internet), and most hardware wallet-application would be seen as cold (although they are sometimes connected for signing purposes).
-
-#### **What should I do if my Lightning transaction fails while trying to pay someone?**
+<summary>What should I do if my Lightning transaction fails while trying to pay someone?</summary>
 
 Lightning Network transactions can fail for a few common reasons. The most frequent one is usually just not having enough funds in your channel to cover the payment. Make sure you've got enough money in the account you're sending from and don't forget to factor in the network fees (\~2% of the total amount you are trying to send).
 
@@ -226,19 +214,122 @@ Another common issue is the transaction not being able to find a route to the re
 
 The Lightning Network is still evolving, so some failed transactions are normal. But those two things - insufficient funds and routing problems - tend to be the main culprits when a Lightning payment doesn't go through.
 
-####
+</details>
+
+<details>
+
+<summary></summary>
+
+
+
+</details>
+
+<details>
+
+<summary></summary>
+
+
+
+</details>
+
+<details>
+
+<summary></summary>
+
+
+
+</details>
+
+##
+
+## FAQ's Lightning Network Wallets&#x20;
+
+***
+
+
+
+
+
+<details>
+
+<summary>What Are Some Popular Lightning Network Wallets?</summary>
+
+Some popular Lightning Network wallets include:&#x20;
+
+* [Blue Wallet](https://bluewallet.io/)
+* [Blink](https://www.blink.sv/)
+* &#x20;[Muun](https://muun.com/)&#x20;
+* [Wallet of Satoshi](https://www.walletofsatoshi.com/)
+* [ Zeus Wallet](https://zeusln.com/)
+* [Breez](https://breez.technology/)
+
+</details>
+
+<details>
+
+<summary>Are Lightning Wallets the Same as Bitcoin Wallets?</summary>
+
+No, they're not quite the same.
+
+A Bitcoin wallet stores your Bitcoin and conducts transactions directly on the main Bitcoin network. However, with a Lightning wallet, transactions are performed on top of the Bitcoin network using specialized channels between two parties. These channels enable off-chain transactions that Bitcoin itself doesn't track. Only the opening and closing of these channels are recorded on the Bitcoin network.
+
+In summary, while both wallets involve Bitcoin, a Lightning wallet leverages additional channels to facilitate faster and more scalable transactions.
+
+</details>
+
+<details>
+
+<summary>What is the difference between a Non-custodial &#x26; Custodial wallet?</summary>
+
+<mark style="background-color:red;">**Non-custodial Wallet:**</mark>\
+A non-custodial wallet gives you full control over your private key and recovery phrase. This means that you are the only one who can initiate transactions, ensuring that your funds can only be accessed with your direct action. However, it's important to remember that if you forget or lose your recovery phrase, the wallet makers cannot help you regain access to your funds.
+
+<mark style="background-color:orange;">**Custodial Wallet:**</mark>\
+On the other hand, a custodial wallet takes a slightly different approach. In this type of wallet, you don't have direct control over the recovery phrase. Instead, you typically sign in with your email and password. In a custodial wallet, you have to trust the wallet makers to secure your recovery phrase and your Bitcoin. Essentially, the wallet makers technically have control over your funds. Many exchanges provide custodial wallets as part of their services.
+
+To sum it up, non-custodial wallets give you complete control, while custodial wallets require you to trust the wallet makers to secure your funds. It's important to understand the difference and choose the option that aligns with your preferences and level of trust.
+
+</details>
+
+<details>
+
+<summary>What's The Difference Between a <mark style="color:yellow;">Hot Wallet</mark> vs <mark style="color:blue;">Cold Wallet</mark></summary>
+
+_<mark style="color:yellow;">Hot</mark>_ and _<mark style="color:blue;">cold</mark>_ describes a wallet in terms of being connected to the internet. Where a <mark style="color:yellow;">hot</mark> wallet is connected to the internet, a <mark style="color:blue;">cold</mark> wallet is not.&#x20;
+
+The idea is that a <mark style="color:blue;">cold</mark> wallet is less susceptible to third-party theft over the internet. Most software wallet applications would be seen as <mark style="color:yellow;">hot</mark> (although some can be used just for signing on a device not connected to the internet), and most hardware wallet applications would be seen as <mark style="color:blue;">cold</mark> (although they are sometimes connected for signing purposes).
+
+</details>
+
+<details>
+
+<summary></summary>
+
+
+
+</details>
+
+<details>
+
+<summary></summary>
+
+
+
+</details>
 
 ####
 
 ####
 
-####
+## Lightning Bounties FAQ's
 
-####
+***
 
-#### What is Lightning Bounties?
+<details>
 
-Lightning Bounties is a Web3 Bug Bounty Platform that is tailored for the Lightning Network. It provides a platform for developers, researchers, and ethical hackers to discover and report bugs, vulnerabilities, and security issues within Lightning Network applications and protocols.
+<summary>What's Lightning Bounties?</summary>
+
+Lightning Bounties is a Web3 Bug Bounty Platform tailored to open-source developers and the Lightning Network. We provide a platform for developers, bug bounty hunters, and ethical hackers to discover and report bugs, vulnerabilities, and security issues within Lightning Network applications and protocols.
 
 Lightning Bounties offers an opportunity for the Lightning community to proactively address potential security threats and ensure the overall safety and integrity of the network.
 
@@ -246,7 +337,11 @@ The platform facilitates the responsible disclosure of vulnerabilities and rewar
 
 Through Lightning Bounties, participants can engage in a collaborative effort to bolster the security of the Lightning ecosystem, and contribute to a safer and more reliable network for all users.
 
-#### Who Typically Uses Lightning Bounties?
+</details>
+
+<details>
+
+<summary>Who Typically Uses Lightning Bounties?</summary>
 
 Lightning Bounties caters to two primary groups: **developers** and **organizations**.
 
@@ -254,26 +349,38 @@ Lightning Bounties caters to two primary groups: **developers** and **organizati
 
 **Organizations** can tap into a talented pool of developers to improve the quality and security of their software projects.
 
-#### Why Do I Have To Link My GitHub Account To Use Lightning Bounties?
+</details>
+
+<details>
+
+<summary>Why Do I Have To Link My GitHub Account To Use Lightning Bounties?</summary>
 
 **Linking your GitHub account to Lightning Bounties is necessary for several reasons:**
 
-| Authentication:       | It verifies your identity and prevents fake accounts.                              |
-| --------------------- | ---------------------------------------------------------------------------------- |
-| ​Project Access:      | You can link your GitHub projects to post bounties on specific issues or projects. |
-| ​​Issue Tracking:     | It helps you stay organized and focused on the issues that require attention.      |
-| Collaboration:        | Enables effective communication and progress tracking with bug hunters.            |
-| Reward Distribution:  | Ensures correct and efficient distribution of rewards.                             |
-| Profile & Reputation: | Builds your reputation as a responsible project maintainer.                        |
+<img src=".gitbook/assets/image (8).png" alt="" data-size="original">
+
+
 
 **TLDR**: _Linking your GitHub account streamlines bug hunting, promotes collaboration, and ensures proper reward distribution._
 
-####
+</details>
+
+<details>
+
+<summary></summary>
+
+
+
+</details>
+
+<details>
+
+<summary></summary>
+
+
+
+</details>
+
+
 
 ####
-
-####
-
-####
-
-Check out this conversion table below to see the conversion between sats and BTC.
