@@ -30,7 +30,8 @@
 * [x] Licensing \~
 * [ ] About Lightning Bounties
 * [ ] Wallet Setup
-*
+* [ ] Road Map&#x20;
+* [ ] Resources&#x20;
 * [x] Links
   * [x] Wix Website
   * [x] Telegram
