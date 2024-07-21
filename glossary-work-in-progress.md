@@ -18,8 +18,6 @@
 
 ####
 
-
-
 <details>
 
 <summary>Satoshi's (Sats)</summary>
@@ -138,13 +136,92 @@ Non-custodial wallets give the user full control over their funds and the associ
 
 </details>
 
-####
+<details>
 
-####
+<summary>Faraday </summary>
 
-####
+Faraday is analytics software developed by Lightning Labs that can help identify [liquidity needs](https://docs.lightning.engineering/community-resources/glossary#liquidity-management) and profitable channels in a [Lightning node](https://docs.lightning.engineering/community-resources/glossary#lightning-network-node).
 
-####
+</details>
+
+<details>
+
+<summary>Gossip Network</summary>
+
+The Lightning gossip network is used to broadcast information about channels and peers.
+
+</details>
+
+<details>
+
+<summary>Invoice </summary>
+
+To receive Lightning payments, the recipient typically issues an invoice containing information such as a [public key](https://docs.lightning.engineering/community-resources/glossary#public-key), [payment hash](https://docs.lightning.engineering/community-resources/glossary#payment-hash), or an invoice amount and label. Invoices are defined in[ BOLT 11](https://www.bolt11.org/).
+
+</details>
+
+<details>
+
+<summary>Keysend </summary>
+
+Keysend allows users of the Lightning Network to send funds to a node's public key.
+
+</details>
+
+<details>
+
+<summary>Watchtower </summary>
+
+A watchtower consists of a client and a server. The client will share information relevant to [channel breaches](https://docs.lightning.engineering/community-resources/glossary#channel-breach) with the server, which will intervene in case they observe a breach on-chain. Watchtowers are needed in case the client is offline and unable to observe the breach themselves.
+
+</details>
+
+<details>
+
+<summary>Transaction ID</summary>
+
+The transaction ID (txid) is the hash of a Bitcoin transaction. Channels are identified by the transaction ID of their funding transaction.
+
+</details>
+
+<details>
+
+<summary>Taproot Assets</summary>
+
+A Taproot-powered protocol for issuing assets on Bitcoin that can be transferred over the Lightning Network for instant, high-volume, low-fee transactions.
+
+Taproot Assets (formerly Taro) is a new Taproot-powered protocol for issuing assets on the Bitcoin blockchain that can be transferred over the Lightning Network for instant, high-volume, low-fee transactions. At its core, Taproot Assets taps into the security and stability of the Bitcoin network and the speed, scalability, and low fees of Lightning.
+
+Overview of Taproot Assets:
+
+1. Allows assets to be issued on the Bitcoin blockchain
+2. Leverages taproot for privacy and scalability
+3. Assets can be deposited into Lightning channels
+4. Assets can be transferred over the existing Lightning Network
+
+
+
+</details>
+
+<details>
+
+<summary>Peer-to-Peer Network</summary>
+
+A peer-to-peer network is any system not relying on a leader, in which connections are made directly between peers without intermediaries.
+
+</details>
+
+<details>
+
+<summary></summary>
+
+
+
+</details>
+
+
+
+
 
 ## FAQ’s - Lightning Network&#x20;
 

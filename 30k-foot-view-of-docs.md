@@ -10,10 +10,11 @@
 * Ways to use Lightning Bounties
 * Key Terms / Glossary
 
-##### Will adding Pull Request 
-- Did it work? (this is a normal hyphen bullet)
+**Will adding Pull Request**
+
+* Did it work? (this is a normal hyphen bullet)
 * other bullets (this is an asterisk bullet)
-* And an emoji: 🍎 
+* And an emoji: 🍎
 
 #### Mikes Things
 
@@ -26,17 +27,15 @@
   * [ ] Design Assets
   * [ ] Logos
   *
-* [ ] Licensing \~
+* [x] Licensing \~
 * [ ] About Lightning Bounties
 * [ ] Wallet Setup
 *
-*   [ ] Links
-
-    * [ ] Wix Website
-    * [ ] Telegram
-    * [ ] Blog Posts
-    * [ ] GitHub
-    * [ ] DevPost
-    * [ ] email contact
-    * [ ] YouTube
-
+* [x] Links
+  * [x] Wix Website
+  * [x] Telegram
+  * [x] GitHub
+  * [x] beta site
+  * [x] Twitter
+  * [x] email contact
+  * [x] YouTube

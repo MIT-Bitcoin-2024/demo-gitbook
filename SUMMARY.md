@@ -27,6 +27,7 @@
 * [⭐ CONTRIBUTING](contributing.md)
 * [📖 Glossary (Work in Progress)](glossary-work-in-progress.md)
 * [❓ Lightning Bounties FAQ's](lightning-bounties-faqs.md)
+* [⛈️ Lightning Network FAQ's](lightning-network-faqs.md)
 * [🤝 Meet The Team](glossary.md)
 * [🌐 Socials](socials.md)
 * [📽️ Video Demo's](video-demos.md)
