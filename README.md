@@ -1,12 +1,6 @@
 ---
 description: If you came here to write docs and get paid, you're in the right place
-cover: >-
-  https://raw.githubusercontent.com/MIT-Bitcoin-2024/lightning-bounty/main/assets/img/banner.png
-coverY: 0
 layout:
-  cover:
-    visible: true
-    size: hero
   title:
     visible: true
   description:
@@ -20,8 +14,6 @@ layout:
 ---
 
 # ⚖️ Lightning Bounties | Docs
-
-
 
 <div align="left">
 
