@@ -9,6 +9,7 @@
 * Troubleshooting
 * Ways to use Lightning Bounties
 * Key Terms / Glossary
+* Thanks Scotty!
 
 **Will adding Pull Request**
 
