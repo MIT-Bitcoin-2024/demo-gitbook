@@ -21,10 +21,6 @@ layout:
 
 </div>
 
-## Lightning Bounties | Documentation
-
-_If you came here to write docs and get paid, you're in the right place!_
-
 ***
 
 ### 📚 Read Our Documentation
