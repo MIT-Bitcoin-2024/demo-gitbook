@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Lightning Bounties | Docs](README.md)
+* [⚖️ Lightning Bounties | Docs](README.md)
 * [🍎 30k foot view of docs](30k-foot-view-of-docs.md)
 * [💰 How-To: Convert Sats to Local Currency](how-to-convert-sats-to-local-currency/README.md)
   * [🇺🇸 USA | Sats2Dollars | $](how-to-convert-sats-to-local-currency/usa-or-sats2dollars-or-usd.md)
