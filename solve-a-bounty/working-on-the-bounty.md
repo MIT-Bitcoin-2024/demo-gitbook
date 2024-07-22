@@ -4,6 +4,8 @@ description: Here you can find the steps to be taken to work on a bounty to get 
 
 # 👩‍🏭 Working on the Bounty
 
+GitHub issue [example](https://github.com/MIT-Bitcoin-2024/experiments-1/issues/26)
+
 ## Working on a Bounty
 
 **Note:** This example shows how to work on a bounty. The project example involved adding color to a logo based on a GitHub issue.
