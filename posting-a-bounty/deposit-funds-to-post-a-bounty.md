@@ -4,8 +4,6 @@ description: This page describes how to deposit Funds to your account.
 
 # 👉 Deposit Funds to Post a Bounty
 
-####
-
 {% embed url="https://share.synthesia.io/2a52c578-b1ff-4e6d-a8e3-9094d112f958" %}
 Deposit Funds to Post a Bounty
 {% endembed %}
