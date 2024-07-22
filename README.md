@@ -1,5 +1,4 @@
 ---
-description: If you came here to write docs and get paid, you're in the right place
 layout:
   title:
     visible: true
@@ -20,6 +19,8 @@ layout:
 <figure><img src=".gitbook/assets/LB_Logo_Round.png" alt="" width="188"><figcaption></figcaption></figure>
 
 </div>
+
+### <mark style="background-color:orange;">**If you came here to write docs and get paid, you're in the right place**</mark>
 
 ***
 
