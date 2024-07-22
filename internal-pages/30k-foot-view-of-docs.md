@@ -14,7 +14,7 @@
 
 * Did it work? (this is a normal hyphen bullet)
 * other bullets (this is an asterisk bullet)
-* And an emoji: 🍎 :)
+* And an emoji: 🍎 :) :/
 
 #### Mikes Things
 
