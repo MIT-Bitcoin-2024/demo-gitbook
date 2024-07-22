@@ -29,10 +29,10 @@
 
 * [🔎 Looking for a project to get rewarded](solve-a-bounty/looking-for-a-project-to-get-rewarded.md)
 * [👩‍🏭 Working on the Bounty](solve-a-bounty/working-on-the-bounty.md)
+* [💘 Contributing](solve-a-bounty/contributing.md)
 
 ***
 
-* [⭐ CONTRIBUTING](contributing.md)
 * [📖 Glossary (Work in Progress)](glossary-work-in-progress.md)
 * [❓ Lightning Bounties FAQ's](lightning-bounties-faqs.md)
 * [⛈️ Lightning Network FAQ's](lightning-network-faqs.md)
@@ -43,7 +43,8 @@
 * [🚨 CODE\_OF\_CONDUCT](code\_of\_conduct.md)
 * [🕸️ Archived](archived/README.md)
   * [👮‍♀️ deprecated\_7/2024\_code\_of\_conduct](archived/deprecated\_7-2024\_code\_of\_conduct.md)
-  * [🏗️ CONTRIBUTING](archived/contributing.md)
+  * [⭐ CONTRIBUTING](archived/contributing.md)
+  * [🏗️ CONTRIBUTING](archived/contributing-1.md)
 * [🐙 .github](.github/README.md)
   * [⬅️ PULL\_REQUEST\_TEMPLATE](.github/pull\_request\_template.md)
   * [🔥 FEATURE\_REQUEST\_TEMPLATE](.github/feature\_request\_template.md)
