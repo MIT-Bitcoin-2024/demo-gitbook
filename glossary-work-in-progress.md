@@ -1,6 +1,6 @@
 # 📖 Glossary (Work in Progress)
 
-## Glossary
+## Common Terms
 
 ***
 
