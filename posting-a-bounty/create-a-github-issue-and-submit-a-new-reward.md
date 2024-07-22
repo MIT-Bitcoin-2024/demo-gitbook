@@ -6,6 +6,10 @@ description: >-
 
 # 💸 Create a GitHub issue and Submit a new reward
 
+
+
+{% embed url="https://share.synthesia.io/e9972f08-6cdd-475c-9b5f-7e5274134398" %}
+
 ### Create a GitHub Issue
 
 #### Step 1: Navigate to Issues
