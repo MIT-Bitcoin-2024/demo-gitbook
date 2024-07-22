@@ -1,22 +1,8 @@
 # 📖 Glossary (Work in Progress)
 
-## Lightning Bounties Documentation
-
-####
-
-@Will Sutton
-
-[Lightning Bounties Markdown Templates](https://www.notion.so/Lightning-Bounties-Markdown-Templates-e17d6b48b13445d9aec7cbf76e3b7c09?pvs=21)
-
-[Modals 4 LB MVP](https://www.notion.so/Modals-4-LB-MVP-fa0d77fda1d34ab89b14745a5f822cfc?pvs=21)
-
 ## Glossary
 
 ***
-
-
-
-####
 
 <details>
 
@@ -227,10 +213,6 @@ A peer-to-peer network is any system not relying on a leader, in which connectio
 
 ***
 
-###
-
-
-
 <details>
 
 <summary>How many Satoshi’s (Sats) are in one Bitcoin?</summary>
@@ -317,13 +299,11 @@ The Lightning Network is still evolving, so some failed transactions are normal.
 
 </details>
 
-##
+
 
 ## FAQ's Lightning Network Wallets&#x20;
 
 ***
-
-
 
 
 
@@ -394,9 +374,7 @@ The idea is that a <mark style="color:blue;">cold</mark> wallet is less suscepti
 
 </details>
 
-####
 
-####
 
 ## Lightning Bounties FAQ's
 
@@ -458,6 +436,3 @@ Lightning Bounties caters to two primary groups: **developers** and **organizati
 
 </details>
 
-
-
-####
