@@ -24,15 +24,15 @@
 
 ***
 
-* [📖 Glossary (Work in Progress)](glossary-work-in-progress.md)
-* [❓ Lightning Bounties FAQ's](lightning-bounties-faqs.md)
-* [⛈️ Lightning Network FAQ's](lightning-network-faqs.md)
-* [📡 External resources](external-resources/README.md)
-  * [Satoshi in Bitcoin: What It Is and How Much It Is Worth](https://www.investopedia.com/terms/s/satoshi.asp)
-  * [Use Lightning Network](https://uselightning.network/)
-  * [GitHub issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues)
 * [🤝 Meet The Team](glossary.md)
 * [🌐 Socials](socials.md)
+* [📖 Glossary (Work in Progress)](glossary-work-in-progress/README.md)
+  * [❓ Lightning Bounties FAQ's](glossary-work-in-progress/lightning-bounties-faqs.md)
+  * [⛈️ Lightning Network FAQ's](glossary-work-in-progress/lightning-network-faqs.md)
+  * [📡 External resources](glossary-work-in-progress/external-resources/README.md)
+    * [Satoshi in Bitcoin: What It Is and How Much It Is Worth](https://www.investopedia.com/terms/s/satoshi.asp)
+    * [Use Lightning Network](https://uselightning.network/)
+    * [GitHub issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues)
 * [💘 Contributing](contributing.md)
 * [⚖️ LICENSE.md](license.md)
 * [🚨 CODE\_OF\_CONDUCT](code\_of\_conduct.md)

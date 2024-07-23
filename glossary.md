@@ -1,9 +1,3 @@
----
-cover: >-
-  https://cdn.discordapp.com/attachments/1231779693540282398/1255033272032034927/IMG_9027.jpg?ex=669757d1&is=66960651&hm=27077e33c2c7de9aef593ea8488b226a814c8e7dbcb3d7f42f288208add736fc&
-coverY: 0
----
-
 # 🤝 Meet The Team
 
 We are a dedicated team of open-source enthusiasts, inspired by the spirit of our revolutionary Boston forefathers. Similar to Bitcoin enthusiasts, we strongly believe in borderless collaboration and strive to eliminate barriers and limitations. Our passion for decentralized innovation drives us to create a new era of unrestricted progress.
