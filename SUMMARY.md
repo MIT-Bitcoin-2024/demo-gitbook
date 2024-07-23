@@ -24,7 +24,7 @@
 
 ***
 
-* [🤝 Meet The Team](glossary.md)
+* [🤝 Lightning Bounties Team](lightning-bounties-team.md)
 * [🌐 Socials](socials.md)
 * [📖 Glossary (Work in Progress)](glossary-work-in-progress/README.md)
   * [❓ Lightning Bounties FAQ's](glossary-work-in-progress/lightning-bounties-faqs.md)
