@@ -21,6 +21,9 @@
 * [🔎 Looking for a project to get rewarded](solve-a-bounty/looking-for-a-project-to-get-rewarded.md)
 * [👩‍🏭 Working on the Bounty](solve-a-bounty/working-on-the-bounty.md)
 * [📽️ Video Demo's](solve-a-bounty/video-demos.md)
+* [🐙 .github](solve-a-bounty/.github/README.md)
+  * [⬅️ PULL\_REQUEST\_TEMPLATE](solve-a-bounty/.github/pull\_request\_template.md)
+  * [🔥 FEATURE\_REQUEST\_TEMPLATE](solve-a-bounty/.github/feature\_request\_template.md)
 
 ***
 
@@ -31,9 +34,6 @@
   * [Satoshi in Bitcoin: What It Is and How Much It Is Worth](https://www.investopedia.com/terms/s/satoshi.asp)
   * [Use Lightning Network](https://uselightning.network/)
   * [GitHub issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues)
-* [🐙 .github](.github/README.md)
-  * [⬅️ PULL\_REQUEST\_TEMPLATE](.github/pull\_request\_template.md)
-  * [🔥 FEATURE\_REQUEST\_TEMPLATE](.github/feature\_request\_template.md)
 * [🤝 Meet The Team](glossary.md)
 * [🌐 Socials](socials.md)
 * [💘 Contributing](contributing.md)
