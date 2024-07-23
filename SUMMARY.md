@@ -21,7 +21,7 @@
 * [🔎 Looking for a project to get rewarded](solve-a-bounty/looking-for-a-project-to-get-rewarded.md)
 * [👩‍🏭 Working on the Bounty](solve-a-bounty/working-on-the-bounty.md)
 * [📽️ Video Demo's](solve-a-bounty/video-demos.md)
-* [🐙 .github](solve-a-bounty/.github/README.md)
+* [🐙 Templates](solve-a-bounty/.github/README.md)
   * [⬅️ PULL\_REQUEST\_TEMPLATE](solve-a-bounty/.github/pull\_request\_template.md)
   * [🔥 FEATURE\_REQUEST\_TEMPLATE](solve-a-bounty/.github/feature\_request\_template.md)
 
