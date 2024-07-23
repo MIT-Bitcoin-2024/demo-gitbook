@@ -50,7 +50,7 @@ This project is licensed under the \[[MIT License](https://github.com/MIT-Bitcoi
 
 <div align="left" data-full-width="false">
 
-<figure><img src=".gitbook/assets/GitBook - Dark.jpg" alt="GitBook Is The Best Documentation Platform Ever!" width="302"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/GitBook - Dark.jpg" alt="GitBook Is The Best Documentation Platform Ever!" width="302"><figcaption><p>We <span data-gb-custom-inline data-tag="emoji" data-code="2764">❤️</span> GitBook</p></figcaption></figure>
 
 </div>
 
