@@ -1,8 +1,6 @@
 # 1️⃣ First Time Onboarding
 
-[Using GitHub to Authorize LB-Stage for React App Sample](https://app.tango.us/app/workflow/9dd6e3fd-f7bd-41a8-bb9d-21593979b90e?utm\_source=markdown\&utm\_medium=markdown\&utm\_campaign=workflow%20export%20links)\
-
-
+## [Using GitHub to Authorize LB-Stage for React App Sample](https://app.tango.us/app/workflow/9dd6e3fd-f7bd-41a8-bb9d-21593979b90e?utm\_source=markdown\&utm\_medium=markdown\&utm\_campaign=workflow%20export%20links)
 
 ***
 
@@ -38,16 +36,6 @@ Now that you're in, get ready to unleash your skills, collaborate with fellow de
 
 Welcome aboard! Let the bounty hunting begin and enjoy the electrifying adventure of Lightning Bounties!
 
-\
 
 
 ***
-
-
-
-\
-
-
-***
-
-Created with [Tango.us](https://tango.us/?utm\_source=markdown\&utm\_medium=markdown\&utm\_campaign=workflow%20export%20links)
