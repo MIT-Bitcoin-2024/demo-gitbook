@@ -1,28 +1,6 @@
-<!--
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
--->
-
 # ⚖️ Lightning Bounties | Docs
 
-<div align="left">
-
-<figure><img src=".gitbook/assets/LB_Logo_Round.png" alt="" width="188"><figcaption></figcaption></figure>
-
-</div>
-
-### <mark style="background-color:orange;">**If you came here to write docs and get paid, you're in the right place**</mark>
+<mark style="background-color:orange;">**If you came here to write docs and get paid, you're in the right place**</mark>
 
 ***
 
@@ -66,8 +44,16 @@ Have questions? Want to discuss a bounty?
 
 ### 📜 License
 
-This project is licensed under the \[[MIT License](https://github.com/MIT-Bitcoin-2024/demo-gitbook?tab=License-1-ov-file)]\(LICENSE).
+This project is licensed under the \[[MIT License](https://github.com/MIT-Bitcoin-2024/demo-gitbook?tab=License-1-ov-file)]
 
-***
+### :handshake: Supporters
 
-⚡ Powered By Open-Source ⚡
+<div align="left" data-full-width="false">
+
+<figure><img src=".gitbook/assets/GitBook - Dark.jpg" alt="GitBook Is The Best Documentation Platform Ever!" width="302"><figcaption></figcaption></figure>
+
+</div>
+
+We extend our heartfelt appreciation to [GitBook ](https://www.gitbook.com/)for their exceptional support. Their platform has been instrumental in creating and sharing our project's documentation seamlessly.&#x20;
+
+⚡ Powered By Open-Source ⚡&#x20;
