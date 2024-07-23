@@ -9,7 +9,7 @@
 
 ***
 
-* [1️⃣ 1️⃣ First Time Onboarding](first-time-onboarding.md)
+* [1️⃣ First Time Onboarding](first-time-onboarding.md)
 
 ## 💱 Posting a bounty
 
@@ -21,9 +21,6 @@
 * [🔎 Looking for a project to get rewarded](solve-a-bounty/looking-for-a-project-to-get-rewarded.md)
 * [👩‍🏭 Working on the Bounty](solve-a-bounty/working-on-the-bounty.md)
 * [📽️ Video Demo's](solve-a-bounty/video-demos.md)
-* [🐙 Templates](solve-a-bounty/.github/README.md)
-  * [⬅️ PULL\_REQUEST\_TEMPLATE](solve-a-bounty/.github/pull\_request\_template.md)
-  * [🔥 FEATURE\_REQUEST\_TEMPLATE](solve-a-bounty/.github/feature\_request\_template.md)
 
 ***
 
@@ -39,6 +36,9 @@
 * [💘 Contributing](contributing.md)
 * [⚖️ LICENSE.md](license.md)
 * [🚨 CODE\_OF\_CONDUCT](code\_of\_conduct.md)
+* [🐙 Templates](.github/README.md)
+  * [⬅️ PULL\_REQUEST\_TEMPLATE](.github/pull\_request\_template.md)
+  * [🔥 FEATURE\_REQUEST\_TEMPLATE](.github/feature\_request\_template.md)
 * [🕸️ Archived](archived/README.md)
   * [👮‍♀️ deprecated\_7/2024\_code\_of\_conduct](archived/deprecated\_7-2024\_code\_of\_conduct.md)
   * [⭐ CONTRIBUTING](archived/contributing.md)
