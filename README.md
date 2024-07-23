@@ -1,3 +1,4 @@
+<!--
 ---
 layout:
   title:
@@ -11,6 +12,7 @@ layout:
   pagination:
     visible: true
 ---
+-->
 
 # ⚖️ Lightning Bounties | Docs
 
