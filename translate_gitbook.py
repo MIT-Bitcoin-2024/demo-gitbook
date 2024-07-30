@@ -4,17 +4,23 @@ import os
 # Set your OpenAI API key
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
-# Function to translate content using ChatGPT
+# Function to translate content using GPT-4
 def translate_content(content, target_language="Spanish"):
-    messages = [
-        {"role": "system", "content": "You are a helpful assistant."},
-        {"role": "user", "content": f"Translate the following content to {target_language}: {content}"}
-    ]
-    
     response = openai.ChatCompletion.create(
-        model="gpt-3.5-turbo",
-        messages=messages,
-        max_tokens=1000
+        model="gpt-4",
+        messages=[
+            {
+                "role": "system",
+                "content": "You are a helpful assistant that translates English content into Spanish."
+            },
+            {
+                "role": "user",
+                "content": content
+            }
+        ],
+        temperature=0.7,
+        max_tokens=1000,
+        top_p=1
     )
     
     translated_content = response.choices[0].message['content'].strip()
