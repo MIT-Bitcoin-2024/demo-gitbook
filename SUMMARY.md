@@ -9,7 +9,7 @@
 
 ***
 
-* [1️⃣ First Time Onboarding](first-time-onboarding.md)
+* [1️⃣ 1️⃣ First Time Onboarding](first-time-onboarding.md)
 
 ## 💱 Posting a bounty
 
