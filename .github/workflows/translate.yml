@@ -32,10 +32,11 @@ jobs:
 
     - name: Commit changes
       env:
-        GITHUB_TOKEN: ${{ secrets.GH_PAT }}  # Use the PAT stored in the repository secrets
+        GITHUB_TOKEN: ${{ secrets.GH_PAT }}  # Ensure to use the correct token name
       run: |
         git config --global user.name 'jegamboafuentes'
         git config --global user.email 'jegamboafuentes@gmail.com'
+        git remote set-url origin https://jegamboafuentes:${{ secrets.GH_PAT }}@github.com/MIT-Bitcoin-2024/demo-gitbook.git
         git add .
         git commit -m 'Translated GitBook content'
         git push
