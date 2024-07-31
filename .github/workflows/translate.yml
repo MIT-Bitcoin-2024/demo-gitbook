@@ -31,6 +31,8 @@ jobs:
         python translate_gitbook.py
 
     - name: Commit changes
+      env:
+        GITHUB_TOKEN: ${{ secrets.GH_PAT }}  # Use the PAT stored in the repository secrets
       run: |
         git config --global user.name 'jegamboafuentes'
         git config --global user.email 'jegamboafuentes@gmail.com'
