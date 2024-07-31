@@ -32,7 +32,7 @@ jobs:
 
     - name: Commit changes
       env:
-        GITHUB_TOKEN: ${{ secrets.GH_PAT }}  # Ensure to use the correct token name
+        GH_PAT: ${{ secrets.GH_PAT }}  # Ensure to use the correct token name
       run: |
         git config --global user.name 'jegamboafuentes'
         git config --global user.email 'jegamboafuentes@gmail.com'
