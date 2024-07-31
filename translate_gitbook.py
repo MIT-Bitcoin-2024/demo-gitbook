@@ -28,14 +28,7 @@ def translate_content(content, target_language="Spanish"):
 
 # List of files to translate
 files_to_translate = [
-    "README.md",
-    "SUMMARY.md",
-    "code_of_conduct.md",
-    "contributing.md",
-    "first-time-onboarding.md",
-    "license.md",
-    "lightning-bounties-team.md",
-    "socials.md"
+    "code_of_conduct.md"
     # Add more files as needed
 ]
 
