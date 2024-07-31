@@ -28,7 +28,7 @@ def translate_content(content, target_language="Spanish"):
 
 # List of files to translate
 files_to_translate = [
-    "code_of_conduct.md"
+    "license.md"
     # Add more files as needed
 ]
 
