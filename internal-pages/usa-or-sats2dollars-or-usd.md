@@ -8,3 +8,4 @@ Aother way is to use Breeze Wallet to take out sats and then do on-chain bitcoin
 
 * One thing to watch out for here is you need minimum 100,000 sats in your Breez Wallet to make an on-chain transfer, And you'll be hit with a larger fee than if you just used lightning: [https://doc.breez.technology/Introducing-Breez.html?highlight=btc%20address#on-chain-transactions](https://doc.breez.technology/Introducing-Breez.html?highlight=btc%20address#on-chain-transactions)
 
+Jake was HERE :)
