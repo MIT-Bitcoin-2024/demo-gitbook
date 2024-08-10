@@ -9,7 +9,7 @@
 
 ***
 
-* [1️⃣ 1️⃣ 1️⃣ First Time Onboarding](first-time-onboarding.md)
+* [1️⃣ 1️⃣ 1️⃣ 1️⃣ First Time Onboarding](first-time-onboarding.md)
 
 ## 💱 Posting a bounty
 
@@ -43,6 +43,8 @@
   * [👮‍♀️ deprecated\_7/2024\_code\_of\_conduct](archived/deprecated\_7-2024\_code\_of\_conduct.md)
   * [⭐ CONTRIBUTING](archived/contributing.md)
   * [🏗️ CONTRIBUTING](archived/contributing-1.md)
+* [Blog Section](blog-section/README.md)
+  * [The Power of Bounties in Innovation: A Historical and Modern Perspective](blog-section/the-power-of-bounties-in-innovation-a-historical-and-modern-perspective.md)
 
 ## 🔴 Internal Pages
 
