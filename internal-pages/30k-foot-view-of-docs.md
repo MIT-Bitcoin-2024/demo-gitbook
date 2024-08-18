@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 🍎 30k foot view of docs
 
 * Quickstart
@@ -31,8 +35,8 @@
 * [x] Licensing \~
 * [ ] About Lightning Bounties
 * [ ] Wallet Setup
-* [ ] Road Map&#x20;
-* [ ] Resources&#x20;
+* [ ] Road Map
+* [ ] Resources
 * [x] Links
   * [x] Wix Website
   * [x] Telegram
