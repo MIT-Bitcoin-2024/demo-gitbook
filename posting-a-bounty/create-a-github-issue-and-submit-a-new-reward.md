@@ -12,15 +12,15 @@ description: >-
 
 #### Step 1: Navigate to Issues
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 #### Step 2: Create a New Issue
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 #### Step 3: Enter Issue Title and Description (optional) and Hit _'Submit new issue'_
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 
 ### Submit a New Reward on Lightning Bounties
 
@@ -30,6 +30,6 @@ description: >-
 
 _Copy and Paste the GitHub issue created in last step here._
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 Following these steps will allow you to create a new issue on GitHub and submit a new reward on the Lightning Bounties platform. If you need further assistance, please feel free to contact our support team.
