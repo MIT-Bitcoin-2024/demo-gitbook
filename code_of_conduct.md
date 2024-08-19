@@ -1,4 +1,4 @@
-# 🚨 CODE\_OF\_CONDUCT
+# CODE\_OF\_CONDUCT
 
 ## Code of Conduct - Lightning Bounties
 

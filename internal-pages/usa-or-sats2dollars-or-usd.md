@@ -2,7 +2,7 @@
 hidden: true
 ---
 
-# 🇺🇸 USA | Sats2Dollars | $
+# USA | Sats2Dollars | $
 
 My favorite way is to actually use Coinbase. Now that they implemented lightning...
 

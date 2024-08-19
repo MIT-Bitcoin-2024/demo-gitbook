@@ -4,7 +4,7 @@ cover: >-
 coverY: 0
 ---
 
-# 📽️ Video Demo's
+# Video Demo's
 
 
 

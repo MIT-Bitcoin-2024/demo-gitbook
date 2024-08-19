@@ -2,7 +2,7 @@
 description: Here you can find the steps to be taken to work on a bounty to get rewarded.
 ---
 
-# 👩‍🏭 Working on the Bounty
+# Working on the Bounty
 
 GitHub issue [example](https://github.com/MIT-Bitcoin-2024/experiments-1/issues/26)
 

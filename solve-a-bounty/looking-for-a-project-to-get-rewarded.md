@@ -2,7 +2,7 @@
 description: Here you can see how to find projects to work on and get reward.
 ---
 
-# 🔎 Looking for a project to get rewarded
+# Looking for a project to get rewarded
 
 **Project available:**&#x20;
 

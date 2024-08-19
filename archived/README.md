@@ -2,7 +2,7 @@
 hidden: true
 ---
 
-# 🕸️ Archived
+# Archived
 
 
 

@@ -1,4 +1,4 @@
-# 🤝 Lightning Bounties Team
+# Lightning Bounties Team
 
 We are a dedicated team of open-source enthusiasts, inspired by the spirit of our revolutionary Boston forefathers. Similar to Bitcoin enthusiasts, we strongly believe in borderless collaboration and strive to eliminate barriers and limitations. Our passion for decentralized innovation drives us to create a new era of unrestricted progress.
 

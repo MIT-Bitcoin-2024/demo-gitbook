@@ -1,4 +1,4 @@
-# ⛈️ Lightning Network FAQ's
+# Lightning Network FAQ's
 
 ##
 

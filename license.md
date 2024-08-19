@@ -1,4 +1,4 @@
-# ⚖️ LICENSE.md
+# LICENSE.md
 
 MIT License
 

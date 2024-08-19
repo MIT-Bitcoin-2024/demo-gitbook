@@ -2,7 +2,7 @@
 hidden: true
 ---
 
-# 🎱 Taglines page
+# Taglines page
 
 Submit your taglines into this file as a bullet, e.g.
 

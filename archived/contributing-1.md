@@ -1,4 +1,4 @@
-# 🏗️ CONTRIBUTING
+# CONTRIBUTING
 
 ## :exclamation:<mark style="background-color:red;">Disclaimer</mark> :exclamation:
 

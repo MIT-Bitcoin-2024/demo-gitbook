@@ -4,7 +4,7 @@ description: >-
   read-only.
 ---
 
-# 👮‍♀️ deprecated\_7/2024\_code\_of\_conduct
+# deprecated\_7/2024\_code\_of\_conduct
 
 > \[!IMPORTANT]\
 > Moved to [https://app.gitbook.com/o/BGwrTsFHxhSQHPgv6nD1/s/gvH1HLwrajw9XplSBFfy/\~/changes/18/terms-of-service/code\_of\_conduct](../code\_of\_conduct.md)

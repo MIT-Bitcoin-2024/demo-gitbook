@@ -1,4 +1,4 @@
-# 📖 Glossary (Work in Progress)
+# Glossary (Work in Progress)
 
 ## Common Terms
 

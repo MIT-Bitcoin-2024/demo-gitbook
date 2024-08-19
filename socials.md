@@ -1,4 +1,4 @@
-# 🌐 Socials
+# Socials
 
 ### Welcome to The Lightning Bounties Social Accounts!
 

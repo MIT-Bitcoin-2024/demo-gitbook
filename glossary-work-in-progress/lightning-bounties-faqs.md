@@ -4,7 +4,7 @@ description: >-
   Lightning Bounties.
 ---
 
-# ❓ Lightning Bounties FAQ's
+# Lightning Bounties FAQ's
 
 <details>
 

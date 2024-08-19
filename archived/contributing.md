@@ -2,7 +2,7 @@
 description: Editing 7-21-24 @ 11:40pm moving to archive for update
 ---
 
-# ⭐ CONTRIBUTING
+# CONTRIBUTING
 
 `<!-- omit in toc -->`\
 \# Contributing to Lightning Bounties\

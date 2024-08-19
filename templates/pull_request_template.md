@@ -1,4 +1,4 @@
-# ⬅️ PULL\_REQUEST\_TEMPLATE
+# PULL\_REQUEST\_TEMPLATE
 
 ### Describe your changes
 

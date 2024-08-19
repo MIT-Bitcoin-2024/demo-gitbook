@@ -1,2 +1,2 @@
-# 📡 External resources
+# External resources
 

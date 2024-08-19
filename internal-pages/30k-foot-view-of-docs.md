@@ -2,7 +2,7 @@
 hidden: true
 ---
 
-# 🍎 30k foot view of docs
+# 30k foot view of docs
 
 * Quickstart
   * quick videos demonstrating hello worlds
