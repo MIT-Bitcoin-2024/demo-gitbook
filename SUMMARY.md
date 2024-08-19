@@ -1,11 +1,13 @@
 # Table of contents
 
 * [📖 Lightning Bounties | Docs](README.md)
-* [GETTING STARTED](getting-started/README.md)
-  * [Welcome To Lightning Bounties](getting-started/getting-started.md)
-  * [First Time Onboarding](getting-started/first-time-onboarding.md)
 
-## Posting a bounty
+## Getting started
+
+* [Welcome To Lightning Bounties](getting-started/getting-started.md)
+* [First Time Onboarding](getting-started/first-time-onboarding.md)
+
+## Posting a Bounty
 
 * [Deposit Funds to Post a Bounty](posting-a-bounty/deposit-funds-to-post-a-bounty.md)
 * [Create a GitHub issue and Submit a new reward](posting-a-bounty/create-a-github-issue-and-submit-a-new-reward.md)
