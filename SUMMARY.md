@@ -1,6 +1,6 @@
 # Table of contents
 
-* [⚖️ Lightning Bounties | Docs](README.md)
+* [📖 Lightning Bounties | Docs](README.md)
 
 ## 🏁 Getting started
 
