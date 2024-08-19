@@ -1,11 +1,11 @@
 # Table of contents
 
 * [📖 Lightning Bounties | Docs](README.md)
+* [⚡ Welcome To Lightning Bounties](getting-started.md)
 
 ## 🏁 Getting started
 
-* [⚡ Welcome To Lightning Bounties](getting-started/readme.md)
-* [👨‍💻 HOW\_TO\_TEST](getting-started/how\_to\_test.md)
+* [👨‍💻 HOW\_TO\_TEST](getting-started-1/how\_to\_test.md)
 
 ***
 
