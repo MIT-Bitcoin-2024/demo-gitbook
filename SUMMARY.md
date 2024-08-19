@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Lightning Bounties | Docs](README.md)
+* [📖 Lightning Bounties | Docs](README.md)
 * [Welcome To Lightning Bounties](getting-started.md)
 * [First Time Onboarding](first-time-onboarding.md)
 

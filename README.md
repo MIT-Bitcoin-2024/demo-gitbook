@@ -1,4 +1,4 @@
-# Lightning Bounties | Docs
+# 📖 Lightning Bounties | Docs
 
 <mark style="background-color:orange;">**If you came here to write docs and get paid, you're in the right place**</mark>
 
