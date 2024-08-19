@@ -1,4 +1,8 @@
-# 🐙 .github
+---
+hidden: true
+---
+
+# Templates
 
 {% content-ref url="pull_request_template.md" %}
 [pull\_request\_template.md](pull\_request\_template.md)

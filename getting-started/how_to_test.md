@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 👨‍💻 HOW\_TO\_TEST
 
 ## :exclamation:<mark style="background-color:red;">Disclaimer</mark> :exclamation:

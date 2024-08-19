@@ -36,7 +36,7 @@
 * [💘 Contributing](contributing.md)
 * [⚖️ LICENSE.md](license.md)
 * [🚨 CODE\_OF\_CONDUCT](code\_of\_conduct.md)
-* [🐙 Templates](templates/README.md)
+* [Templates](templates/README.md)
   * [⬅️ PULL\_REQUEST\_TEMPLATE](templates/pull\_request\_template.md)
   * [🔥 FEATURE\_REQUEST\_TEMPLATE](templates/feature\_request\_template.md)
 * [🕸️ Archived](archived/README.md)
