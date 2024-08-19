@@ -26,7 +26,7 @@ You can also check the [Issues tab](https://github.com/MIT-Bitcoin-2024/demo-git
 4. **Submit a Pull Request** with a detailed description of your changes.
 5. **Get paid in SATs** once your PR is reviewed and merged!
 
-For a full guide on our contribution process, please check our [Contribution Guidelines](contributing.md).
+For a full guide on our contribution process, please check our [Contribution Guidelines](about-lb/contributing.md).
 
 ### 🌟 Why Contribute?
 

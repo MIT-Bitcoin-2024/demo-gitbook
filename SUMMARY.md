@@ -14,24 +14,29 @@
 
 ## Solve a Bounty
 
-* [Looking for a project to get rewarded](solve-a-bounty/looking-for-a-project-to-get-rewarded.md)
 * [Working on the Bounty](solve-a-bounty/working-on-the-bounty.md)
+* [Looking for a project to get rewarded](solve-a-bounty/looking-for-a-project-to-get-rewarded.md)
 * [Video Demo's](solve-a-bounty/video-demos.md)
 
-***
+## About LB
 
-* [Lightning Bounties Team](lightning-bounties-team.md)
-* [Socials](socials.md)
-* [Glossary (Work in Progress)](glossary-work-in-progress/README.md)
-  * [Lightning Bounties FAQ's](glossary-work-in-progress/lightning-bounties-faqs.md)
-  * [Lightning Network FAQ's](glossary-work-in-progress/lightning-network-faqs.md)
-  * [External resources](glossary-work-in-progress/external-resources/README.md)
+* [Lightning Bounties Team](about-lb/lightning-bounties-team.md)
+* [Socials](about-lb/socials.md)
+* [Glossary (Work in Progress)](about-lb/glossary-work-in-progress/README.md)
+  * [Lightning Bounties FAQ's](about-lb/glossary-work-in-progress/lightning-bounties-faqs.md)
+  * [Lightning Network FAQ's](about-lb/glossary-work-in-progress/lightning-network-faqs.md)
+  * [External resources](about-lb/glossary-work-in-progress/external-resources/README.md)
     * [Satoshi in Bitcoin: What It Is and How Much It Is Worth](https://www.investopedia.com/terms/s/satoshi.asp)
     * [Use Lightning Network](https://uselightning.network/)
     * [GitHub issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues)
-* [Contributing](contributing.md)
-* [LICENSE.md](license.md)
-* [CODE\_OF\_CONDUCT](code\_of\_conduct.md)
+* [Contributing](about-lb/contributing.md)
+* [LICENSE.md](about-lb/license.md)
+* [CODE\_OF\_CONDUCT](about-lb/code\_of\_conduct.md)
+* [Blog Section](about-lb/blog-section/README.md)
+  * [The Power of Bounties in Innovation: A Historical and Modern Perspective](about-lb/blog-section/the-power-of-bounties-in-innovation-a-historical-and-modern-perspective.md)
+
+***
+
 * [Templates](templates/README.md)
   * [PULL\_REQUEST\_TEMPLATE](templates/pull\_request\_template.md)
   * [FEATURE\_REQUEST\_TEMPLATE](templates/feature\_request\_template.md)
@@ -39,8 +44,6 @@
   * [deprecated\_7/2024\_code\_of\_conduct](archived/deprecated\_7-2024\_code\_of\_conduct.md)
   * [CONTRIBUTING](archived/contributing.md)
   * [CONTRIBUTING](archived/contributing-1.md)
-* [Blog Section](blog-section/README.md)
-  * [The Power of Bounties in Innovation: A Historical and Modern Perspective](blog-section/the-power-of-bounties-in-innovation-a-historical-and-modern-perspective.md)
 
 ## Internal Pages
 
