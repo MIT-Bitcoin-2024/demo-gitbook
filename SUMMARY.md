@@ -1,8 +1,9 @@
 # Table of contents
 
 * [📖 Lightning Bounties | Docs](README.md)
-* [Welcome To Lightning Bounties](getting-started.md)
-* [First Time Onboarding](first-time-onboarding.md)
+* [GETTING STARTED](getting-started/README.md)
+  * [Welcome To Lightning Bounties](getting-started/getting-started.md)
+  * [First Time Onboarding](getting-started/first-time-onboarding.md)
 
 ## Posting a bounty
 
