@@ -2,13 +2,6 @@
 
 * [📖 Lightning Bounties | Docs](README.md)
 * [⚡ Welcome To Lightning Bounties](getting-started.md)
-
-## 🏁 Getting started
-
-* [👨‍💻 HOW\_TO\_TEST](getting-started-1/how\_to\_test.md)
-
-***
-
 * [1️⃣ First Time Onboarding](first-time-onboarding.md)
 
 ## 💱 Posting a bounty
