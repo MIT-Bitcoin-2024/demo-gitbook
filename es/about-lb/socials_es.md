@@ -1,0 +1,79 @@
+# Redes Sociales
+
+### ¡Bienvenidos a las Redes Sociales de Lightning Bounties!
+
+Conéctate con nosotros y mantente al tanto. Participa a través de comunicación directa, exploración de código o redes sociales en nuestras diversas plataformas.
+
+<table>
+<thead>
+<tr>
+<th width="200" align="center">Cuenta Social</th>
+<th align="center">Propósito</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"> 
+<img src="../.gitbook/assets/website-#ABAB54FF.svg" alt="" data-size="line">
+<a href="https://www.lightningbounties.com/">Sitio Web </a>
+</td>
+<td align="center">
+Visita nuestro sitio web para conocer más sobre Lightning Bounties, ver nuestro blog, apuntarte a nuestra lista de espera, y seguir nuestro progreso.
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="../.gitbook/assets/beta-#ABAB54FF.svg" alt="" data-size="line">
+<a href="https://beta.lightningbounties.com/">Plataforma de Recompensas</a>
+</td>
+<td align="center">
+¿Interesado en ganar algunos Bitcoin? Ve a nuestra Plataforma de Recompensas y empieza a solucionarlas. Se publican nuevas recompensas diariamente.
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="../.gitbook/assets/github-#ABAB54FF.svg" alt="" data-size="line">
+<a href="https://github.com/MIT-Bitcoin-2024"> GitHub</a>
+</td>
+<td align="center">
+Explora nuestro repositorio en GitHub para acceder al código fuente de nuestra plataforma, contribuir con mejoras y revisar los problemas reportados.
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="../.gitbook/assets/twitter-#ABAB54FF.svg" alt="" data-size="line"> 
+<a href="https://x.com/LBounties">Twitter </a>
+</td>
+<td align="center">
+Síguenos en Twitter para mantenerte al tanto de los anuncios del programa en tiempo real, noticias, e información importante.
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="../.gitbook/assets/telegram-#ABAB54FF.svg" alt="" data-size="line">  
+<a href="https://t.me/+vEnFunP_mfRjOTJh">Telegram </a>
+</td>
+<td align="center">
+Únete a nuestro grupo de Telegram para conectarte con nosotros directamente.
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="../.gitbook/assets/youtube-#ABAB54FF.svg" alt="" data-size="line"> 
+<a href="https://youtube.com/@lightningbounties?si=AGCT8Zqazy1IUDaX">YouTube</a>
+</td>
+<td align="center">
+Suscríbete a nuestro canal de YouTube para acceder a videos educativos y aprender a través de nuestros tutoriales a profundidad.
+</td>
+</tr>
+<tr>
+<td align="center"> 
+<img src="../.gitbook/assets/email-#ABAB54FF.svg" alt="" data-size="line">
+<a href="mailto:founders@lightningbounties.com">Correo Electrónico</a>
+</td>
+<td align="center">
+Para consultas, comentarios o oportunidades de colaboración, por favor escríbenos. Nuestro equipo te asistirá con gusto.
+</td>
+</tr>
+</tbody>
+</table>
