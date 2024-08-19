@@ -1,0 +1,10 @@
+# Lightning Bounties Team
+
+We are a dedicated team of open-source enthusiasts, inspired by the spirit of our revolutionary Boston forefathers. Similar to Bitcoin enthusiasts, we strongly believe in borderless collaboration and strive to eliminate barriers and limitations. Our passion for decentralized innovation drives us to create a new era of unrestricted progress.
+
+Although we come from diverse backgrounds in crypto, AI, and software development, we share a common conviction in the transformative power of decentralization, Bitcoin, & open-source software. We are not conventional corporate employees; instead, we are advocates of open source, fervent supporters of Bitcoin, and disruptors of the status quo.&#x20;
+
+&#x20;We pledge to be the catalyst for a new age of unrestricted innovation, one bounty at a time.
+
+<table data-full-width="true"><thead><tr><th align="center">Enrique Gamboa</th><th align="center">Will Sutton</th><th align="center">Pavel Kononov</th><th align="center">Mike Abramo</th></tr></thead><tbody><tr><td align="center"><img src="../.gitbook/assets/enrique_medium_pic.jpg" alt="" data-size="original"></td><td align="center"><img src="../.gitbook/assets/will_sutton_github_pic.jpg" alt="" data-size="original"></td><td align="center"><img src="../.gitbook/assets/pavel4.jpg" alt=""></td><td align="center"><img src="../.gitbook/assets/mike.jpg" alt="" data-size="original"></td></tr><tr><td align="center"><strong><code>Partnerships &#x26; Growth</code></strong></td><td align="center"><strong><code>Product &#x26; Strategy</code></strong></td><td align="center"><strong><code>Engineering &#x26; Project Management</code></strong></td><td align="center"><strong><code>Marketing &#x26; Developer Relations</code></strong></td></tr><tr><td align="center"><a href="https://github.com/jegamboafuentes">GitHub</a></td><td align="center"><a href="https://github.com/sutt">GitHub</a></td><td align="center"><a href="https://github.com/super-jaba">GitHub</a></td><td align="center"><a href="https://github.com/SonnyMonroe">GitHub</a></td></tr></tbody></table>
+
