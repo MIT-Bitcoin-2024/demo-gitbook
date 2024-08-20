@@ -1,4 +1,4 @@
-# Lightning Bounties | Documentos
+# Lightning Bounties | Documentos 
 
 <mark style="background-color:orange;">**Si llegaste aquí para escribir documentos y ganar lana, estás en el lugar correcto**</mark>
 
