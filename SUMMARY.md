@@ -55,4 +55,4 @@
 
 ## 🇲🇽 Spanish
 
-* [Page 1](spanish/page-1.md)
+* [JEGF was here](spanish/page-1.md)
