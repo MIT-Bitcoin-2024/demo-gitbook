@@ -6,7 +6,7 @@
 
 ### 📚 Lee Nuestra Documentación
 
-Para encontrar la documentación más actual y completa, por favor visita nuestro GitBook:
+Para encontrar la documentación más actual y completa, por favor visita nuestro GitBook: 
 
 [![Documentación en GitBook](https://img.shields.io/badge/GitBook-Documentaci%C3%B3n-blue?style=for-the-badge\&logo=gitbook)](https://lightning-bounties.gitbook.io/docs/getting-started/getting-started)
 
