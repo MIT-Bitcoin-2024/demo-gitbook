@@ -1,7 +1,5 @@
 # the power of bounties in innovation a historical and modern perspective\_es
 
-Tenga en cuenta: No traduzca el nombre de la marca 'lightning bounties'. El nombre de la marca debe permanecer exactamente como está.
-
 ***
 
 ### descripción: >- Blog que discute el pasado, presente y futuro de las recompensas y cómo estimulan la innovación
@@ -50,5 +48,3 @@ Responda a este artículo añadiendo un ejemplo de un sistema de recompensas his
 * Espere a que un miembro del equipo revise sus cambios y los combine en el repositorio de git
 
 Después de que se completen estos pasos: deberías tener sats depositados en tu perfil. Ahora puedes usar esos sats para retirarlos a tu monedero o para publicar una recompensa propia.
-
-Traducción en español de la Ciudad de México con algo de jerga local pero aún sonando formal

@@ -1,7 +1,5 @@
 # code\_of\_conduct\_es
 
-Por favor nota: No traduzcas el nombre de la marca 'lightning bounties'. El nombre de la marca debe permanecer exactamente como está.
-
 ## CÓDIGO\_DE\_CONDUCTA
 
 ### Código de Conducta - Lightning Bounties

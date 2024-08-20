@@ -1,7 +1,5 @@
 # lightning bounties team\_es
 
-Por favor nota: No traduzcas el nombre de la marca 'lightning bounties'. El nombre de la marca debe permanecer exactamente como está.
-
 ## Equipo Lightning Bounties
 
 Somos un equipo dedicado de entusiastas del código abierto, inspirado por el espíritu de nuestros revolucionarios antepasados ​​de Boston. Similar a los entusiastas de Bitcoin, creemos firmemente en la colaboración sin fronteras y nos esforzamos por eliminar barreras y limitaciones. Nuestra pasión por la innovación descentralizada nos impulsa a abrir camino en una nueva era de progreso sin restricciones.
