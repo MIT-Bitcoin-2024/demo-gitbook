@@ -14,7 +14,7 @@ GitHub issue [example](https://github.com/MIT-Bitcoin-2024/experiments-1/issues/
 
 #### Step 1: Select a Bounty from Lightning Bounties
 
-<figure><img src="../.gitbook/assets/image (19) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
 #### Step 2: Navigate to the GitHub issue
 
@@ -40,6 +40,6 @@ In this example, upload the colored logo.&#x20;
 
 #### Step 17: Create Pull Request
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 Following these steps, you will have successfully worked on a bounty by creating a fork, making changes, and submitting a pull request for review. If you need any further assistance, please contact our support team.
