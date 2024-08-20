@@ -8,6 +8,6 @@ description: Getting started with our platform
 Quick Intro
 {% endembed %}
 
-<figure><img src="../.gitbook/assets/logo.png" alt="" width="188"><figcaption><p>Lightning Bounties Logo</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/LB_Dark_bg-removebg-preview.png" alt="" width="125"><figcaption><p>Lightning Bounties Logo</p></figcaption></figure>
 
 Follow this documentation to get started
