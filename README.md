@@ -12,7 +12,7 @@ For the most up-to-date and comprehensive documentation, please visit our GitBoo
 
 ### 💰 Open Bounties on Our Documentation
 
-We're constantly looking to improve our documentation, and we pay in sats for valuable contributions!
+We're constantly looking to improve our documentation, and we pay in sats for valuable contributions! JEGF
 
 [![View Open Bounties](https://img.shields.io/badge/View%20Open%20Bounties-orange?style=for-the-badge)](https://beta.lightningbounties.com)
 

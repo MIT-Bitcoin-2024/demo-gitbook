@@ -1,6 +1,0 @@
----
-icon: microblog
----
-
-# Blog Section
-
