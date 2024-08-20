@@ -4,6 +4,12 @@
 
 ***
 
+### Select your Language
+
+
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Spanish</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td><td><a href=".gitbook/assets/Flag_of_Mexico.svg.webp">Flag_of_Mexico.svg.webp</a></td></tr><tr><td>French</td><td></td><td></td><td></td><td><a href=".gitbook/assets/Flag_of_Canada_(Pantone).svg.png">Flag_of_Canada_(Pantone).svg.png</a></td></tr><tr><td>Russian</td><td></td><td></td><td></td><td><a href=".gitbook/assets/Flag-Russia.webp">Flag-Russia.webp</a></td></tr></tbody></table>
+
 ### 📚 Read Our Documentation
 
 For the most up-to-date and comprehensive documentation, please visit our GitBook:
@@ -54,6 +60,6 @@ This project is licensed under the \[[MIT License](https://github.com/MIT-Bitcoi
 
 </div>
 
-We extend our heartfelt appreciation to [GitBook ](https://www.gitbook.com/)for their exceptional support. Their platform has been instrumental in creating and sharing our project's documentation seamlessly.&#x20;
+We extend our heartfelt appreciation to [GitBook ](https://www.gitbook.com/)for their exceptional support. Their platform has been instrumental in creating and sharing our project's documentation seamlessly.
 
-⚡ Powered By Open-Source ⚡&#x20;
+⚡ Powered By Open-Source ⚡

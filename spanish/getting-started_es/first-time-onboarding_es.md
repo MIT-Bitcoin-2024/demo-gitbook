@@ -1,6 +1,6 @@
 # first time onboarding\_es
 
-Por favor ten en cuenta: No se debe traducir el nombre de la marca 'lightning bounties'. El nombre de la marca debe permanecer exactamente como está.
+
 
 ## 1️⃣ Primer Uso o Inicio
 

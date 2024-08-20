@@ -1,6 +1,6 @@
 # create a github issue and submit a new reward\_es
 
-Por favor tenga en cuenta: No traduzca el nombre de la marca 'lightning bounties'. El nombre de la marca debe permanecer exactamente como está.
+
 
 ***
 
@@ -27,5 +27,3 @@ Por favor tenga en cuenta: No traduzca el nombre de la marca 'lightning bounties
 _Copian y pegan el problema de GitHub creado en el último paso aquí._
 
 Siguiendo estos pasos te permitirá crear un nuevo problema en GitHub y someter una nueva recompensa en la plataforma de Lightning Bounties. Si necesitas más ayuda, no dudes en contactar a nuestro equipo de soporte.
-
-Tranlate en español de la Ciudad de México con algo de jerga local pero aún sonando formal
