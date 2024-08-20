@@ -52,3 +52,7 @@
   * [Sutt | Tagline](internal-pages/taglines-page/sutt-or-tagline.md)
 * [How-To: Convert Sats to Local Currency](internal-pages/how-to-convert-sats-to-local-currency.md)
 * [USA | Sats2Dollars | $](internal-pages/usa-or-sats2dollars-or-usd.md)
+
+## 🇲🇽 Spanish
+
+* [Page 1](spanish/page-1.md)
