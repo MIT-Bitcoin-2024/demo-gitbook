@@ -8,7 +8,7 @@
 
 
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Spanish</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td><td><a href=".gitbook/assets/Flag_of_Mexico.svg.webp">Flag_of_Mexico.svg.webp</a></td></tr><tr><td>French</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td><td><a href=".gitbook/assets/Flag_of_Canada_(Pantone).svg.png">Flag_of_Canada_(Pantone).svg.png</a></td></tr><tr><td>Russian</td><td></td><td></td><td></td><td><a href=".gitbook/assets/Flag-Russia.webp">Flag-Russia.webp</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Spanish</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td><td><a href=".gitbook/assets/Flag_of_Mexico.svg.webp">Flag_of_Mexico.svg.webp</a></td></tr><tr><td>French</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td><td><a href=".gitbook/assets/Flag_of_Canada_(Pantone).svg.png">Flag_of_Canada_(Pantone).svg.png</a></td></tr><tr><td>Russian</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td><td><a href=".gitbook/assets/Flag-Russia.webp">Flag-Russia.webp</a></td></tr></tbody></table>
 
 ### 📚 Read Our Documentation
 
