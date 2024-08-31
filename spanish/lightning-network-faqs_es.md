@@ -1,8 +1,6 @@
 # lightning network faqs\_es
 
-Asegúrate de: Traducir al español de Mexico City con algo de jerga local pero aún sonando formal, no traduzcas "Lightning Bounties"
-
-Este es el texto a traducir: # Preguntas Frecuentes sobre la Red Lightning
+\# Preguntas Frecuentes sobre la Red Lightning
 
 ###
 

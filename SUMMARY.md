@@ -53,3 +53,23 @@
 * [LICENCIA.md](spanish/licencia.md.md)
 * [CÓDIGO\_DE\_CONDUCTA](spanish/codigo\_de\_conducta.md)
 * [video demos\_es](spanish/video-demos\_es.md)
+
+## 🇨🇦 French
+
+* [Docs](french/docs.md)
+* [Travail sur la Prime](french/travail-sur-la-prime.md)
+* [Déposer des Fonds pour Poster une Prime](french/deposer-des-fonds-pour-poster-une-prime.md)
+* [Créez une problématique GitHub et Soumettez une nouvelle récompense](french/creez-une-problematique-github-et-soumettez-une-nouvelle-recompense.md)
+* [Comment convertir des Sats en monnaies locales](french/comment-convertir-des-sats-en-monnaies-locales.md)
+* [À la recherche d'un projet pour être récompensé](french/a-la-recherche-dun-projet-pour-etre-recompense.md)
+* [Contribuer](french/contribuer.md)
+* [lightning bounties team\_fr](french/lightning-bounties-team\_fr.md)
+* [Glossaire (Travail en cours)](french/glossaire-travail-en-cours.md)
+* [lightning network faqs\_fr](french/lightning-network-faqs\_fr.md)
+* [FAQ sur les Lightning Bounties](french/faq-sur-les-lightning-bounties.md)
+* [lightning network faqs\_fr\_fr](french/lightning-network-faqs\_fr\_fr.md)
+* [Sociaux](french/sociaux.md)
+* [CODE\_DE\_CONDUITE](french/code\_de\_conduite.md)
+* [license\_fr](french/license\_fr.md)
+* [CODE\_DE\_CONDUITE](french/code\_de\_conduite-1.md)
+* [Démonstrations en Vidéo](french/demonstrations-en-video.md)
