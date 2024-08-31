@@ -1,0 +1,9 @@
+# Команда Lightning Bounties
+
+Мы - преданный командный коллектив любителей открытого исходного кода, вдохновленный духом наших революционных предков из Бостона. Подобно энтузиастам Bitcoin, мы твердо верим в безграничное сотрудничество и стремимся устранить преграды и ограничения. Наше увлечение децентрализованными новшествами побуждает нас к созданию новой эры неограниченного прогресса.
+
+Хотя мы и пришли из разных сфер, таких как крипто, искусственный интеллект и разработка программного обеспечения, мы разделяем общее убеждение в трансформирующую силу децентрализации, Bitcoin и программного обеспечения с открытым исходным кодом. Мы - не обычные корпоративные работники; вместо этого мы являемся сторонниками открытого исходного кода, пылкими сторонниками Bitcoin и нарушителями устоявшегося порядка.
+
+Мы обязуемся быть катализатором новой эры неограниченного инновации, изменяя мир по одному объявлению награды за раз.
+
+<table data-full-width="true"><thead><tr><th align="center">Энрике Гамбоа</th><th align="center">Вилл Саттон</th><th align="center">Павел Кононов</th><th align="center">Майк Абрамо</th></tr></thead><tbody><tr><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td></tr><tr><td align="center"><strong><code>Партнерство &#x26; Рост</code></strong></td><td align="center"><strong><code>Продукт &#x26; Стратегия</code></strong></td><td align="center"><strong><code>Инжиниринг &#x26; Управление Проектами</code></strong></td><td align="center"><strong><code>Маркетинг &#x26; Разработчик Отношений</code></strong></td></tr><tr><td align="center"><a href="https://github.com/jegamboafuentes">GitHub</a></td><td align="center"><a href="https://github.com/sutt">GitHub</a></td><td align="center"><a href="https://github.com/super-jaba">GitHub</a></td><td align="center"><a href="https://github.com/SonnyMonroe">GitHub</a></td></tr></tbody></table>

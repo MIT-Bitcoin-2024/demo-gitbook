@@ -73,3 +73,22 @@
 * [license\_fr](french/license\_fr.md)
 * [CODE\_DE\_CONDUITE](french/code\_de\_conduite-1.md)
 * [Démonstrations en Vidéo](french/demonstrations-en-video.md)
+
+## 🇷🇺 Russian
+
+* [Документы](russian/dokumenty.md)
+* [Содержание](russian/soderzhanie.md)
+* [getting started\_ru](russian/getting-started\_ru.md)
+* [Системе](russian/sisteme.md)
+* [Внесение средств для публикации Lightning Bounties](russian/vnesenie-sredstv-dlya-publikacii-lightning-bounties.md)
+* [подача новой награды](russian/podacha-novoi-nagrady.md)
+* [looking for a project to get rewarded\_ru](russian/looking-for-a-project-to-get-rewarded\_ru.md)
+* [Работа над вознаграждением](russian/rabota-nad-voznagrazhdeniem.md)
+* [Видео демо](russian/video-demo.md)
+* [Местные Валюты](russian/mestnye-valyuty.md)
+* [Социальные сети](russian/socialnye-seti.md)
+* [Команда Lightning Bounties](russian/komanda-lightning-bounties.md)
+* [LICENSE.md](russian/license.md.md)
+* [Вклад](russian/vklad.md)
+* [ЧаВо по Lightning Bounties](russian/chavo-po-lightning-bounties.md)
+* [сети Lightning Bounties](russian/seti-lightning-bounties.md)
