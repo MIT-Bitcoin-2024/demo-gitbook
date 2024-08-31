@@ -1,0 +1,9 @@
+# Equipo de Lightning Bounties
+
+Somos un equipo dedicado de entusiastas del código abierto, inspirados por el espíritu de nuestros revolucionarios antepasados de Boston. Similar a los entusiastas de Bitcoin, creemos firmemente en la colaboración sin fronteras y nos esforzamos por eliminar barreras y limitaciones. Nuestra pasión por la innovación descentralizada nos impulsa a crear una nueva era de progreso sin restricciones.
+
+Aunque venimos de diversos orígenes en cripto, IA y desarrollo de software, compartimos una convicción común en el poder transformador de la descentralización, Bitcoin y el software de código abierto. No somos empleados corporativos convencionales; en cambio, somos defensores del código abierto, fervientes seguidores de Bitcoin y disruptores del status quo.
+
+Nos comprometemos a ser el catalizador de una nueva era de innovación sin restricciones, una recompensa a la vez.
+
+<table data-full-width="true"><thead><tr><th align="center">Enrique Gamboa</th><th align="center">Will Sutton</th><th align="center">Pavel Kononov</th><th align="center">Mike Abramo</th></tr></thead><tbody><tr><td align="center"></td><td align="center"></td><td align="center"></td><td align="center"></td></tr><tr><td align="center"><strong><code>Asociaciones &#x26; Crecimiento</code></strong></td><td align="center"><strong><code>Producto &#x26; Estrategia</code></strong></td><td align="center"><strong><code>Ingeniería &#x26; Gestión de Proyectos</code></strong></td><td align="center"><strong><code>Marketing &#x26; Relaciones con Desarrolladores</code></strong></td></tr><tr><td align="center"><a href="https://github.com/jegamboafuentes">GitHub</a></td><td align="center"><a href="https://github.com/sutt">GitHub</a></td><td align="center"><a href="https://github.com/super-jaba">GitHub</a></td><td align="center"><a href="https://github.com/SonnyMonroe">GitHub</a></td></tr></tbody></table>

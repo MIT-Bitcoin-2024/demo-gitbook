@@ -35,3 +35,21 @@
 * [CODE\_OF\_CONDUCT](about-lb/code\_of\_conduct.md)
 * [Blog Section](about-lb/blog-section/README.md)
   * [The Power of Bounties in Innovation: A Historical and Modern Perspective](about-lb/blog-section/the-power-of-bounties-in-innovation-a-historical-and-modern-perspective.md)
+
+## 🇲🇽 Spanish
+
+* [README\_es](spanish/readme\_es.md)
+* [getting started\_es](spanish/getting-started\_es.md)
+* [first time onboarding\_es](spanish/first-time-onboarding\_es.md)
+* [Depósito de Fondos para Publicar una Recompensa](spanish/deposito-de-fondos-para-publicar-una-recompensa.md)
+* [Crea un problema en GitHub y envía una nueva recompensa](spanish/crea-un-problema-en-github-y-envia-una-nueva-recompensa.md)
+* [looking for a project to get rewarded\_es](spanish/looking-for-a-project-to-get-rewarded\_es.md)
+* [Equipo de Lightning Bounties](spanish/equipo-de-lightning-bounties.md)
+* [Redes Sociales](spanish/redes-sociales.md)
+* [Glosario (Trabajo en progreso)](spanish/glosario-trabajo-en-progreso.md)
+* [Lightning Bounties Preguntas Frecuentes](spanish/lightning-bounties-preguntas-frecuentes.md)
+* [lightning network faqs\_es](spanish/lightning-network-faqs\_es.md)
+* [Contribución](spanish/contribucion.md)
+* [LICENCIA.md](spanish/licencia.md.md)
+* [CÓDIGO\_DE\_CONDUCTA](spanish/codigo\_de\_conducta.md)
+* [video demos\_es](spanish/video-demos\_es.md)
