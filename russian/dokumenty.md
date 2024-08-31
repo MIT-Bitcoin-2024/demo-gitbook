@@ -1,13 +1,5 @@
 # Документы
 
-<mark style="background-color:orange;">**Добро пожаловать в LB Docs**</mark>
-
-***
-
-### Выберите ваш язык
-
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td>Испанский</td><td></td><td></td><td></td><td></td></tr><tr><td>Французский</td><td></td><td></td><td></td><td></td></tr><tr><td>Русский</td><td></td><td></td><td></td><td></td></tr></tbody></table>
-
 ### 📚 Ознакомьтесь с нашей документацией
 
 Для наиболее актуальной и исчерпывающей документации посетите наш GitBook:
