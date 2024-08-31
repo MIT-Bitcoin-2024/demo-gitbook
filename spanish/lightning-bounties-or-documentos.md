@@ -1,3 +1,7 @@
+---
+description: JEGF
+---
+
 # Lightning Bounties | Documentos
 
 <mark style="background-color:orange;">**Si llegaste aquí para escribir documentos y ganar lana, estás en el lugar correcto**</mark>
@@ -6,7 +10,7 @@
 
 ### 📚 Lee Nuestra Documentación
 
-Para encontrar la documentación más actual y completa, por favor visita nuestro GitBook:
+Para encontrar la documentación más actual y completa, por favor visita nuestro GitBook:&#x20;
 
 [![Documentación en GitBook](https://img.shields.io/badge/GitBook-Documentaci%C3%B3n-blue?style=for-the-badge\&logo=gitbook)](https://lightning-bounties.gitbook.io/docs/getting-started/getting-started)
 
