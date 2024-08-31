@@ -1,4 +1,0 @@
-# Sección de Blog
-
-
-
