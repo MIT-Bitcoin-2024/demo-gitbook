@@ -1,7 +1,5 @@
 # Docs
 
-<mark style="background-color:orange;">**Si t'es venu ici pour écrire des docs et pour être payé, t'es au bon endroit**</mark>
-
 ***
 
 ### Choisissez votre langue
